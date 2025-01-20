@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhuoyi Zhao"
-description              : "Master's student "
+description              : "Master's student @Northwestern"
 repository               : "Zhuoyi-Zhao/Zhuoyi-Zhao.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhuoyi Zhao"
   avatar           : "images/zhuoyi.png"
-  bio              : "Master's student"
+  bio              : 
   location         : "Evanston, IL, USA"
   employer         :
   pubmed           : 
