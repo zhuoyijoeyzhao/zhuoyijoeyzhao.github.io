@@ -19,7 +19,7 @@ redirect_from:
 
 I am a master's student in the Department of Electrical and Computer Engineering at Northwestern University supervised by [Prof. Igor Kadota](https://sites.northwestern.edu/kadota/). Prior to this, I obtained my bachelor's degree at Beijing Jiaotong University supervised by [Prof. Jiayi Zhang](https://sites.google.com/site/jiayizhang8650/). My current research interest is to develop theories and models that capture the fundamental limits and trade-offs of next-generation communication networks and multi-agent systems. I am currently applying for PhD program. 
 
-You can find my CV here: <u>[CV_Zhuoyi Zhao.pdf](/assets/CV_Zhuoyi%20Zhao.pdf)</u>
+You can find my CV here: [CV_Zhuoyi Zhao.pdf](/assets/CV_Zhuoyi%20Zhao.pdf)
 
 # Education
 - *2023.09 - present*, Northwestern University, Master of Science in Electrical Engineering (Thesis-track). 
