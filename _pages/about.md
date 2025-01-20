@@ -20,8 +20,8 @@ redirect_from:
 I am a master's student in the Department of Electrical and Computer Engineering at Northwestern University supervised by Prof. Igor Kadota. Prior to this, I obtained my bachelor degree at Beijing Jiaotong University supervised by Prof. Jiayi Zhang. My current research interest is to develop theories and models that capture the fundamental limits and trade-offs of next-generation communication networks and multi-agent systems.
 
 # 📖 Educations
-- *2023.09 - present*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2019.09 - 2023.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09 - present*, Northwestern University, Master of Science in Electrical Engineering (Thesis-track). 
+- *2019.09 - 2023.06*, Beijing Jiaotong University, Bachelor of Engineering in Information Engineering. 
 
 
 # 🔥 News
