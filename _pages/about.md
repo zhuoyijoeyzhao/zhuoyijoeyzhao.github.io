@@ -29,13 +29,13 @@ I am a master's student in the Department of Electrical and Computer Engineering
 # Publications and Manuscript 
 
 1. **Zhuoyi Zhao**, Igor Kadota,  
-   *[Optimizing Age of Information without Knowing the Age of Information](https://arxiv.org/pdf/2501.06688)*, IEEE INFOCOM 2025.
+   *[Optimizing Age of Information without Knowing the Age of Information](https://arxiv.org/pdf/2501.06688)*, *IEEE INFOCOM 2025*.
 
 2. Jiakang Zheng, **Zhuoyi Zhao**, Jiayi Zhang,  
-   *[Performance Analysis of Cell-Free Massive MIMO Systems with Asynchronous Reception](https://arxiv.org/pdf/2210.08869)*, IEEE Globecom Workshops 2023.
+   *[Performance Analysis of Cell-Free Massive MIMO Systems with Asynchronous Reception](https://arxiv.org/pdf/2210.08869)*, *IEEE Globecom Workshops 2023*.
 
 3. **Zhuoyi Zhao**, Igor Kadota, Vishrant Tripathi,
-   *Minimizing Age of Information with large updates*
+   *Minimizing Age of Information with large updates*, to be submitted to *ACM MOBIHOC 2025*.
 
 # Service
 *Grader*, EE 307: Communication System, Northwestern University, Fall 2024
