@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhuoyi Zhao (赵卓一)"
+  name             : "Zhuoyi Zhao \(赵卓一)"
   avatar           : "images/zhuoyi.png"
   bio              : 
   location         : "Evanston, IL, USA"
