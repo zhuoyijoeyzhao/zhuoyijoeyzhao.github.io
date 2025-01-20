@@ -34,7 +34,7 @@ I am a master's student in the Department of Electrical and Computer Engineering
 2. Jiakang Zheng, **Zhuoyi Zhao**, Jiayi Zhang,  
    *[Performance Analysis of Cell-Free Massive MIMO Systems with Asynchronous Reception](https://arxiv.org/pdf/2210.08869)*, *IEEE Globecom Workshops 2023*.
 
-3. **Zhuoyi Zhao**, Igor Kadota, Vishrant Tripathi,
+3. **Zhuoyi Zhao**, Igor Kadota, Vishrant Tripathi,\
    *Minimizing Age of Information with large updates*, to be submitted to *ACM MOBIHOC 2025*.
 
 # Service
