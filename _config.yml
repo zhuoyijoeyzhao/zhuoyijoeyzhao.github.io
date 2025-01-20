@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhuoyi Zhao (赵卓一)"
+title                    : "Zhuoyi Zhao"
 description              : "Master's student @Northwestern"
 repository               : "Zhuoyi-Zhao/Zhuoyi-Zhao.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhuoyi Zhao"
+  name             : "Zhuoyi Zhao (赵卓一)"
   avatar           : "images/zhuoyi.png"
   bio              : 
   location         : "Evanston, IL, USA"
