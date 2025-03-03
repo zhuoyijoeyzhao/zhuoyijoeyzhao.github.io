@@ -37,7 +37,7 @@ You can find my CV here: [CV_Zhuoyi Zhao.pdf](/assets/CV_ZhuoyiZHAO.pdf)
 2. Jiakang Zheng, **Zhuoyi Zhao**, Jiayi Zhang,  
    *[Performance Analysis of Cell-Free Massive MIMO Systems with Asynchronous Reception](https://arxiv.org/pdf/2210.08869)*, *IEEE Globecom Workshops 2023*.
 
-3. **Zhuoyi Zhao**, Igor Kadota, Vishrant Tripathi,\
+3. **Zhuoyi Zhao**, Vishrant Tripathi, Igor Kadota,\
    *Optimizing Age of Information in Networks with Large and Small Updates*, *WiOPT 2025, Invited paper*, under review.
 
 # Services
