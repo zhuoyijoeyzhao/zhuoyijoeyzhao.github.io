@@ -26,19 +26,19 @@ You can find my CV here: [CV_Zhuoyi Zhao.pdf](/assets/CV_ZhuoyiZHAO.pdf)
 - *2019.09 - 2023.06*, Beijing Jiaotong University, Bachelor of Engineering in Information Engineering. 
 
 # News
-- *Mar. 2025*: Our paper entitled “Optimizing Age of Information in Networks with Large and Small Updates” has been submitted to **WiOPT 2025**.
+- *Mar. 2025*: Our paper entitled “Optimizing Age of Information in Networks with Large and Small Updates” has been accepted by **WiOPT 2025**. See you in Linköping!
 - *Dec. 2024*: Our paper entitled “Optimizing Age of Information without Knowing the Age of Information” has been accepted by **IEEE INFOCOM 2025**. See you in London!
 
 # Publications and Manuscripts 
 
-1. **Zhuoyi Zhao**, Igor Kadota,  
+3. **Zhuoyi Zhao**, Vishrant Tripathi, Igor Kadota,\
+   *[Optimizing Age of Information in Networks with Large and Small Updates](https://tinyurl.com/AoI-Large-Updates-WiOpt)*, *WiOPT 2025*. (Invited paper)
+
+2. **Zhuoyi Zhao**, Igor Kadota,  
    *[Optimizing Age of Information without Knowing the Age of Information](https://arxiv.org/pdf/2501.06688)*, to appear in *IEEE INFOCOM 2025* (Acceptence rate: 18.7%).
 
-2. Jiakang Zheng, **Zhuoyi Zhao**, Jiayi Zhang,  
+1. Jiakang Zheng, **Zhuoyi Zhao**, Jiayi Zhang,  
    *[Performance Analysis of Cell-Free Massive MIMO Systems with Asynchronous Reception](https://arxiv.org/pdf/2210.08869)*, *IEEE Globecom Workshops 2023*.
-
-3. **Zhuoyi Zhao**, Vishrant Tripathi, Igor Kadota,\
-   *[Optimizing Age of Information in Networks with Large and Small Updates](https://tinyurl.com/AoI-Large-Updates-WiOpt)*, *WiOPT 2025*, under review. (Invited paper)
 
 # Services
 *Grader*, EE 307: Communication System, Northwestern University, Fall 2024
