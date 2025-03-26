@@ -31,7 +31,7 @@ You can find my CV here: [CV_Zhuoyi Zhao.pdf](/assets/CV_ZhuoyiZHAO.pdf)
 
 # Publications and Manuscripts 
 
-1. **Zhuoyi Zhao**, Vishrant Tripathi, Igor Kadota,
+1. **Zhuoyi Zhao**, Vishrant Tripathi, Igor Kadota,\
    *[Optimizing Age of Information in Networks with Large and Small Updates](https://tinyurl.com/AoI-Large-Updates-WiOpt)*, to appear in *WiOPT 2025*. (Invited paper)
 
 2. **Zhuoyi Zhao**, Igor Kadota,  
