@@ -29,7 +29,7 @@ You can find my CV here: [CV_Zhuoyi Zhao.pdf](/assets/CV_ZhuoyiZHAO.pdf)
 - *Mar. 2025*: Our paper entitled “Optimizing Age of Information in Networks with Large and Small Updates” has been accepted by **WiOPT 2025**. See you in Linköping!
 - *Dec. 2024*: Our paper entitled “Optimizing Age of Information without Knowing the Age of Information” has been accepted by **IEEE INFOCOM 2025**. See you in London!
 
-# Publications and Manuscripts 
+# Publications 
 
 1. **Zhuoyi Zhao**, Vishrant Tripathi, Igor Kadota,\
    *[Optimizing Age of Information in Networks with Large and Small Updates](https://tinyurl.com/AoI-Large-Updates-WiOpt)*, to appear in *WiOPT 2025*. (Invited paper)
