@@ -42,8 +42,9 @@ You can find my CV here: [CV_Zhuoyi Zhao.pdf](/assets/CV_ZhuoyiZHAO.pdf)
 
 # Awards
 
-*The Edward S. Rogers Sr. Graduate Scholarship, University of Toronto, 2025-2029 * 
-*IEEE INFOCOM 2025 IEEE ComSoc Student Travel Grant, 2025* 
+*The Edward S. Rogers Sr. Graduate Scholarship, University of Toronto, 2025-2029* 
+
+*IEEE INFOCOM 2025 Student Travel Grant, 2025* 
 
 # Services
 *Grader*, EE 307: Communication System, Northwestern University, Fall 2024
