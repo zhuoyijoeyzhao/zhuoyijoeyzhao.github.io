@@ -40,12 +40,6 @@ You can find my CV here: [CV_Zhuoyi Zhao.pdf](/assets/CV_ZhuoyiZHAO.pdf)
 3. Jiakang Zheng, **Zhuoyi Zhao**, Jiayi Zhang,  
    *[Performance Analysis of Cell-Free Massive MIMO Systems with Asynchronous Reception](https://arxiv.org/pdf/2210.08869)*, *IEEE Globecom Workshops 2023*.
 
-# Awards
-
-*The Edward S. Rogers Sr. Graduate Scholarship, University of Toronto, 2025-2029* 
-
-*IEEE INFOCOM 2025 Student Travel Grant, 2025* 
-
 # Services
 *Grader*, EE 307: Communication System, Northwestern University, Fall 2024
 
