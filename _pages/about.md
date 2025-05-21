@@ -42,7 +42,7 @@ You can find my CV here: [CV_Zhuoyi Zhao.pdf](/assets/CV_Zhuoyi_Zhao_Mar_2025.pd
    *[Performance Analysis of Cell-Free Massive MIMO Systems with Asynchronous Reception](https://arxiv.org/pdf/2210.08869)*, *IEEE Globecom Workshops 2023*.
 
 # Honor and award
-*Edward S. Rogers Sr. Graduate Scholarship,*, University of Toronto, 2025-2029
+*Edward S. Rogers Sr. Graduate Scholarship*, University of Toronto, 2025-2029
 
 # Services
 *Grader*, EE 307: Communication System, Northwestern University, Fall 2024
