@@ -1,4 +1,4 @@
----
+<img width="522" alt="image" src="https://github.com/user-attachments/assets/8dd00de8-848f-4ff0-85bc-68da529b5938" />---
 permalink: /
 title: ""
 excerpt: ""
@@ -26,6 +26,7 @@ You can find my CV here: [CV_Zhuoyi Zhao.pdf](/assets/CV_Zhuoyi_Zhao_Mar_2025.pd
 - *2019.09 - 2023.06*, Beijing Jiaotong University, Bachelor of Engineering in Information Engineering. 
 
 # News
+- *May. 2025*: Just presented the paper entitled “Optimizing Age of Information without Knowing the Age of Information” in **IEEE INFOCOM 2025** and enjoyed a wonderful trip. The [Open Source Code](https://github.com/Net-X-Research-Group/AoI_Estimator/tree/main) for this work could be found here. 
 - *Mar. 2025*: Our paper entitled “Optimizing Age of Information in Networks with Large and Small Updates” has been accepted by **WiOPT 2025**. See you in Linköping!
 - *Dec. 2024*: Our paper entitled “Optimizing Age of Information without Knowing the Age of Information” has been accepted by **IEEE INFOCOM 2025**. See you in London!
 
@@ -39,6 +40,9 @@ You can find my CV here: [CV_Zhuoyi Zhao.pdf](/assets/CV_Zhuoyi_Zhao_Mar_2025.pd
 
 3. Jiakang Zheng, **Zhuoyi Zhao**, Jiayi Zhang,  
    *[Performance Analysis of Cell-Free Massive MIMO Systems with Asynchronous Reception](https://arxiv.org/pdf/2210.08869)*, *IEEE Globecom Workshops 2023*.
+
+# Honor and award
+*Edward S.\ Rogers Sr.\ Graduate Scholarship,*, University of Toronto, 2025-2029
 
 # Services
 *Grader*, EE 307: Communication System, Northwestern University, Fall 2024
