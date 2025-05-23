@@ -42,6 +42,7 @@ I am a master's student in the Department of Electrical and Computer Engineering
 
 # Honor and award
 *Edward S. Rogers Sr. Graduate Scholarship*, University of Toronto, 2025-2029
+
 *Best Electrical Engineering MS Thesis Award*, Northwestern University, 2025
 
 # Services
