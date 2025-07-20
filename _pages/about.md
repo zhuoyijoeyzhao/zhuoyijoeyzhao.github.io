@@ -1,12 +1,3 @@
-<img width="522" alt="image" src="https://github.com/user-attachments/assets/8dd00de8-848f-4ff0-85bc-68da529b5938" />---
-permalink: /
-title: ""
-excerpt: ""
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 
 
 {% if site.google_scholar_stats_use_cdn %}
