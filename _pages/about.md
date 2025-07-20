@@ -1,4 +1,12 @@
-
+<img width="522" alt="image" src="[https://github.com/user-attachments/assets/8dd00de8-848f-4ff0-85bc-68da529b5938](https://github.com/Zhuoyi-Zhao/Zhuoyi-Zhao.github.io/edit/main/_pages/about.md)" />---
+permalink: /
+title: ""
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
