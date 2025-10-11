@@ -65,9 +65,10 @@ My current research interests lie in My current research interest is to develop 
 
 ---
 
+# Honor and award
+*Edward S. Rogers Sr. Graduate Scholarship*, University of Toronto, 2025-2029
 
-## Honors
-- **Best Electrical Engineering MS Thesis Award**, Northwestern University (2025).
+*Best Electrical Engineering MS Thesis Award*, Northwestern University, 2025
 
 ---
 
