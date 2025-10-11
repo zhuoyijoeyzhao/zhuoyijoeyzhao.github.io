@@ -89,17 +89,17 @@ Achieving Age of Information-Aware Scheduling in Real-World System
 </div>
 
 
-<!-- ===== Publication 2 (inline styles only) ===== -->
+<!-- ===== Publication 2 (final fixed layout) ===== -->
 <div style="border:1px solid #ddd; border-radius:10px; padding:20px; margin-bottom:25px; box-shadow:0 1px 3px rgba(0,0,0,0.1); background-color:white; text-align:justify;">
   <h3 style="margin-top:0; text-align:left;">
     <a href="https://arxiv.org/pdf/2503.23658" target="_blank" style="color:#007ACC; text-decoration:none;">
       Minimizing Age of Information in Networks with Heterogeneous Updates
     </a>
   </h3>
-  <!-- 两列布局：左文字、右图 -->
-  <div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:24px; width:100%;">
-    <!-- 左列文字 -->
-    <div style="flex:1 1 58%; min-width:320px;">
+  <!-- ✅ 左右两列布局 -->
+  <div style="display:flex; align-items:flex-start; gap:25px;">
+    <!-- 左侧文字 -->
+    <div style="flex:1.8; min-width:300px;">
       <p>
         Modern sensing and monitoring systems often involve sources generating updates of heterogeneous sizes, ranging from small telemetry data such as position and temperature measurements to large scale data such as images, video frames, and LiDAR point clouds. Existing wireless scheduling approaches for information freshness often neglect this heterogeneity, resulting in suboptimal performance. In this paper, we study a single hop wireless broadcast network in which multiple sources transmit updates of different sizes to a base station over unreliable links. Some sources generate large updates that span multiple time slots, while others generate small updates occupying only a few slots. Because only one source can transmit to the base station in each time slot, it is necessary to design scheduling policies that account for the update size diversity.
       </p>
@@ -110,12 +110,10 @@ Achieving Age of Information-Aware Scheduling in Real-World System
         In [J3], motivated by transmission scheduling frameworks for minimizing Age of Information in multihop wireless networks, we further develop an Age Debt policy based on a Lyapunov formulation that incorporates virtual age debt queues. This approach enables one slot Lyapunov drift analysis for networks with heterogeneous update lengths $L_i>1$, where the objective is to minimize the cumulative age debt across multiple virtual queues. The key insight is that scheduling large updates with $L_i>1$ is structurally similar to scheduling transmissions in multihop networks, since in both cases multiple transmissions are required before an Age of Information reduction occurs. Building on this analogy, we adapt the multihop solution framework proposed in previous work (Tripathi et al., 2021) to our heterogeneous update setting. Simulation results show that the Age Debt policy can outperform the Max Weight policy under certain network configurations.
       </p>
     </div>
-    <!-- 右列：两张图上下堆叠 -->
-    <div style="flex:1 1 40%; min-width:260px; display:flex; flex-direction:column; align-items:center; gap:16px;">
-      <img src="/images/WiOPT_2025_1.png" alt="WiOPT Figure 1"
-           style="width:100%; height:auto; border-radius:10px; box-shadow:0 2px 6px rgba(0,0,0,0.15);">
-      <img src="/images/WiOPT_2025_2.png" alt="WiOPT Figure 2"
-           style="width:100%; height:auto; border-radius:10px; box-shadow:0 2px 6px rgba(0,0,0,0.15);">
+    <!-- 右侧两张堆叠的图片（放大 20%） -->
+    <div style="flex:1.2; min-width:260px; display:flex; flex-direction:column; align-items:center; gap:20px;">
+      <img src="/images/WiOPT_2025_1.png" alt="WiOPT Figure 1" style="max-width:120%; border-radius:10px; box-shadow:0 2px 6px rgba(0,0,0,0.15);"/>
+      <img src="/images/WiOPT_2025_2.png" alt="WiOPT Figure 2" style="max-width:120%; border-radius:10px; box-shadow:0 2px 6px rgba(0,0,0,0.15);"/>
     </div>
   </div>
 </div>
