@@ -46,7 +46,7 @@ My current research interests lie in My current research interest is to develop 
 ---
 
 ## Experience
-- Aug. 2025 – present,**Graduate Research Assistant**, University of Toronto, Advisor by Prof. Ben Liang, Focus on online optimization & communication-efficient FL.
+- Aug. 2025 – present,**Graduate Research Assistant**, University of Toronto, Focus on online optimization & communication-efficient FL.
   
 - Fall 2024,**Grader**, EE 307 Communication Systems, Northwestern University .
 
