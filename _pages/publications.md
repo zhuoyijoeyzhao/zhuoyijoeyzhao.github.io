@@ -28,7 +28,7 @@ Optimizing Age of Information without Knowing the Age of Information
   </div>
 
   <div style="flex:1; text-align:center;">
-    <img src="/images/INFOCOM_2025.pdf" alt="OBE Figure" style="max-width:100%; border-radius:8px;"/>
+    <img src="/images/INFOCOM_2025.pdf" alt="Figure_INFOCOM 2025" style="max-width:100%; border-radius:8px;"/>
   </div>
 </div>
 </div>
