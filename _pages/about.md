@@ -120,8 +120,6 @@ Achieving Age of Information-Aware Scheduling in Real-World System
         In [J3], motivated by transmission scheduling frameworks for minimizing Age of Information in multihop wireless networks, we further develop an Age Debt policy based on a Lyapunov formulation that incorporates virtual age debt queues. This approach enables one slot Lyapunov drift analysis for networks with heterogeneous update lengths $L_i>1$, where the objective is to minimize the cumulative age debt across multiple virtual queues. The key insight is that scheduling large updates with $L_i>1$ is structurally similar to scheduling transmissions in multihop networks, since in both cases multiple transmissions are required before an Age of Information reduction occurs. Building on this analogy, we adapt the multihop solution framework proposed in previous work (Tripathi et al., 2021) to our heterogeneous update setting. Simulation results show that the Age Debt policy can outperform the Max Weight policy under certain network configurations.
       </p>
     </div>
-
-    <!-- 右侧两张堆叠的图片（容器更宽，图片不超框） -->
     <div class="pub-figs">
       <img src="/images/WiOPT_2025_1.png" alt="WiOPT Figure 1">
       <img src="/images/WiOPT_2025_2.png" alt="WiOPT Figure 2">
