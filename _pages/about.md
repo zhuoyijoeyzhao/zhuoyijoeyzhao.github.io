@@ -111,7 +111,7 @@ Achieving Age of Information-Aware Scheduling in Real-World System
       </p>
     </div>
     <!-- 右侧两张堆叠的图片（放大 20%） -->
-    <div style="flex:1.2; min-width:260px; display:flex; flex-direction:column; align-items:center; gap:20px;">
+    <div style="flex:1.2; min-width:280px; display:flex; flex-direction:column; align-items:center; gap:20px;">
       <img src="/images/WiOPT_2025_1.png" alt="WiOPT Figure 1" style="max-width:120%; border-radius:10px; box-shadow:0 2px 6px rgba(0,0,0,0.15);"/>
       <img src="/images/WiOPT_2025_2.png" alt="WiOPT Figure 2" style="max-width:120%; border-radius:10px; box-shadow:0 2px 6px rgba(0,0,0,0.15);"/>
     </div>
