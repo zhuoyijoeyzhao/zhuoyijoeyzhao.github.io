@@ -42,18 +42,20 @@ My current research interests lie in My current research interest is to develop 
 - **Z. Zhao**, I. Kadota. *Minimizing Age of Information Without Knowing the Age of Information.* (in preparation), **IEEE/ACM Transactions on Networking**.
   
 - Y. Chen, **Z. Zhao**, I. Kadota, I. Hou. *Minimizing Age of Information in Random Access Networks with Age Threshold.* (in preparation), **IEEE/ACM Transactions on Networking**.
+
 ---
 
 ## Experience
-- **Graduate Research Assistant**, University of Toronto (Aug. 2025 – present).  
-  Advisor: **Ben Liang**. Focus: online optimization & communication-efficient FL.  
-- **Grader**, EE 307 Communication Systems, Northwestern University (Fall 2024).
+- Aug. 2025 – present,**Graduate Research Assistant**, University of Toronto, Advisor by Prof. Ben Liang, Focus on online optimization & communication-efficient FL.
+  
+- Fall 2024,**Grader**, EE 307 Communication Systems, Northwestern University .
 
 ---
 
 ## Education
 
-- *2023.09 - 2025.06*, Northwestern University, Master of Science in Electrical Engineering (Thesis-track). *Thesis:* *Optimizing Age-of-Information in Real-World Networks* — **Best EE MS Thesis Award**.  
+- *2023.09 - 2025.06*, Northwestern University, Master of Science in Electrical Engineering (Thesis-track). *Thesis:* *Optimizing Age-of-Information in Real-World Networks* — **Best EE MS Thesis Award**.
+  
 - *2019.09 - 2023.06*, Beijing Jiaotong University, Bachelor of Engineering in Information Engineering. 
 
 ---
