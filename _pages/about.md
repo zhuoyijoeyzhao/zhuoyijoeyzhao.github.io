@@ -64,13 +64,9 @@ My current research interests lie in My current research interest is to develop 
 
 <h3 style="margin-top:0;">
 <a href="https://arxiv.org/pdf/2501.06688" target="_blank" style="color:#007ACC; text-decoration:none;">
-Optimizing Age of Information without Knowing the Age of Information
+Achieving Age of Information-Awared Scheduling in Real-World System
 </a>
 </h3>
-
-<p>
-<b>📅 Published:</b> <i>IEEE INFOCOM</i>, May 2025
-</p>
 
 <div style="display:flex; align-items:flex-start; gap:20px;">
   <div style="flex:2;">
