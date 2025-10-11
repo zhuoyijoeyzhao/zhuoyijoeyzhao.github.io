@@ -10,7 +10,7 @@ author_profile: true
 <div style="border:1px solid #ddd; border-radius:10px; padding:20px; margin-bottom:25px; box-shadow:0 1px 3px rgba(0,0,0,0.1); background-color:white;">
 
 <h3 style="margin-top:0;">
-<a href="https://arxiv.org/pdf/2407.18531" target="_blank" style="color:#007ACC; text-decoration:none;">
+<a href="https://arxiv.org/pdf/2501.06688" target="_blank" style="color:#007ACC; text-decoration:none;">
 Optimizing Age of Information without Knowing the Age of Information
 </a>
 </h3>
