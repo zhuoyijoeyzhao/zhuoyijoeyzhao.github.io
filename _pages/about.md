@@ -42,18 +42,18 @@ My current research interests lie in My current research interest is to develop 
 
 **Conference Paper**  
 
-- **Z. Zhao**, V. Tripathi, I. Kadota. *Optimizing Age of Information in Networks with Large and Small Updates.* To appear in **WiOpt 2025**. (Invited paper)  
+- [C3] **Z. Zhao**, V. Tripathi, I. Kadota. *Optimizing Age of Information in Networks with Large and Small Updates.* To appear in **WiOpt 2025**. (Invited paper)  
 
-- **Z. Zhao**, I. Kadota. *Optimizing Age of Information Without Knowing the Age of Information.* To appear in **IEEE INFOCOM 2025**. (Acceptance rate: 18.7%)  
+- [C2] **Z. Zhao**, I. Kadota. *Optimizing Age of Information Without Knowing the Age of Information.* To appear in **IEEE INFOCOM 2025**. (Acceptance rate: 18.7%)  
 
-- J. Zheng, **Z. Zhao**, J. Zhang, J. Cheng, V. Leung. *Performance Analysis of Cell-Free Massive MIMO Systems with Asynchronous Reception.* **IEEE Globecom Workshops**, 2023.  
+- [C1] J. Zheng, **Z. Zhao**, J. Zhang, J. Cheng, V. Leung. *Performance Analysis of Cell-Free Massive MIMO Systems with Asynchronous Reception.* **IEEE Globecom Workshops**, 2023.  
 
 **Journal manuscripts**  
-- **Z. Zhao**, V. Tripathi, I. Kadota. *Minimizing Age of Information in Networks with Heterogeneous Updates.* (submitted), **IEEE/ACM Transactions on Networking**.
+- [J3] **Z. Zhao**, V. Tripathi, I. Kadota. *Minimizing Age of Information in Networks with Heterogeneous Updates.* (submitted), **IEEE/ACM Transactions on Networking**.
   
-- **Z. Zhao**, I. Kadota. *Minimizing Age of Information Without Knowing the Age of Information.* (in preparation), **IEEE/ACM Transactions on Networking**.
+- [J2] **Z. Zhao**, I. Kadota. *Minimizing Age of Information Without Knowing the Age of Information.* (in preparation), **IEEE/ACM Transactions on Networking**.
   
-- Y. Chen, **Z. Zhao**, I. Kadota, I. Hou. *Minimizing Age of Information in Random Access Networks with Age Threshold.* (in preparation), **IEEE/ACM Transactions on Networking**.
+- [J1] Y. Chen, **Z. Zhao**, I. Kadota, I. Hou. *Minimizing Age of Information in Random Access Networks with Age Threshold.* (in preparation), **IEEE/ACM Transactions on Networking**.
 
 
 ---
@@ -71,8 +71,11 @@ Achieving Age of Information-Awared Scheduling in Real-World System
 <div style="display:flex; align-items:flex-start; gap:20px;">
   <div style="flex:2;">
     <p>
-    We consider a network where a wireless base station (BS) connects multiple source-destination pairs. Packets from each source are generated according to a general renewal process and are enqueued in a single packet queue that stores only the latest generated packet. The BS decides, at each time slot $t$, which sources to schedule. Selected sources transmit their packet to the BS via unreliable links. Successfully received packets are forwarded to their corresponding destinations. The connection between the BS and the destinations is assumed unreliable and delayed. Each served packet will be delivered to the corresponding destination after two transmissions: a wireless uplink transmission and a multi-hop heterogeneous transmission with a two-way delay. The BS decides, at each time slot, which sources to serve to the corresponding destinations. Information freshness at the destination is captured by the Age of Information (AoI) metric. The objective of the scheduling decisions is to leverage the imperfect (i.e., delayed and unreliable) knowledge of the AoI to keep the information at the destinations as fresh as possible. 
-    In this work, we derive a lower bound on the achievable AoI by any transmission scheduling policy. Then, we develop an optimal randomized policy for any packet generation processes. Next, we develop minimum mean square error estimators of the AoI and system times, and develop a Max-Weight policy that leverages these estimators. We evaluate the AoI of the optimal randomized policy and of the Max-Weight policy both analytically and through simulations. The numerical results suggest that the Max-Weight policy with estimation outperforms the optimal randomized policy even when the BS has no knowledge of the AoI at the destination.
+    We consider a network where a wireless base station (BS) connects multiple source–destination pairs. Packets from each source are generated according to a general renewal process and are stored in a single-packet queue that always keeps the latest generated packet. At each time slot $t$, the BS decides which sources to schedule for transmission. The selected sources send their packets to the BS through unreliable uplink channels. Successfully received packets are then forwarded to their corresponding destinations through unreliable and delayed downlink connections. Each delivered packet thus undergoes two transmission stages: a wireless uplink transmission and a multi-hop heterogeneous transmission with a two-way delay. The freshness of information at the destination is measured by the Age of Information (AoI) metric. The objective of the scheduling policy is to leverage imperfect (i.e., delayed and unreliable) feedback of the AoI to keep the destination information as fresh as possible.
+    </p>
+    In [C2], we derive a lower bound on the achievable AoI under any transmission scheduling policy. Then, we design an optimal randomized policy applicable to general packet generation processes. Next, we develop minimum mean square error estimators of the AoI and system times, based on which we propose a Max-Weight scheduling policy that exploits these estimators. We evaluate the AoI performance of both the optimal randomized and Max-Weight policies analytically and through simulations. The numerical results show that the Max-Weight policy with estimation achieves lower AoI than the optimal randomized policy, even when the BS has no direct knowledge of the destination AoI.
+    </p>
+    In [J2], we further develop a Low-Complexity Estimator based on a Bernoulli Approximation, which maintains provable performance guarantees while significantly reducing computational cost. We implement the proposed estimator in NetSim, a system-level 5G network simulator, to further demonstrate its performance and generalization capability in realistic wireless network scenarios.
     </p>
   </div>
 
