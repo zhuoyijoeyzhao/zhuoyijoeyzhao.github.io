@@ -91,13 +91,11 @@ Achieving Age of Information-Aware Scheduling in Real-World System
 
 <!-- ===== Publication 2 (inline styles only) ===== -->
 <div style="border:1px solid #ddd; border-radius:10px; padding:20px; margin-bottom:25px; box-shadow:0 1px 3px rgba(0,0,0,0.1); background-color:white; text-align:justify;">
-
   <h3 style="margin-top:0; text-align:left;">
     <a href="https://arxiv.org/pdf/2503.23658" target="_blank" style="color:#007ACC; text-decoration:none;">
       Minimizing Age of Information in Networks with Heterogeneous Updates
     </a>
   </h3>
-
   <!-- 两列布局：左文字、右图 -->
   <div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:24px; width:100%;">
     <!-- 左列文字 -->
@@ -119,7 +117,6 @@ Achieving Age of Information-Aware Scheduling in Real-World System
       <img src="/images/WiOPT_2025_2.png" alt="WiOPT Figure 2"
            style="width:100%; height:auto; border-radius:10px; box-shadow:0 2px 6px rgba(0,0,0,0.15);">
     </div>
-
   </div>
 </div>
 
