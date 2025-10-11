@@ -70,7 +70,7 @@ Achieving Age of Information-Aware Scheduling in Real-World System
 
 
 <div style="text-align:center; margin-bottom:15px;">
-  <img src="/images/INFOCOM_2025.png" alt="Figure_INFOCOM 2025" style="max-width:90%; border-radius:10px; box-shadow:0 2px 6px rgba(0,0,0,0.15);"/>
+  <img src="/images/INFOCOM_2025.png" alt="Figure_INFOCOM 2025" style="max-width:60%; border-radius:10px; box-shadow:0 2px 6px rgba(0,0,0,0.15);"/>
 </div>
 
 <div>
@@ -98,25 +98,27 @@ Minimizing Age of Information in Networks with Heterogeneous Updates
 </a>
 </h3>
 
+<div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:20px;">
 
-<div style="text-align:center; margin-bottom:15px;">
-  <img src="/images/WiOPT_2025_1.png" alt="Figure_INFOCOM 2025" style="max-width:90%; border-radius:10px; box-shadow:0 2px 6px rgba(0,0,0,0.15);"/>
-</div>
-
-<div>
-  <p>
-Modern sensing and monitoring applications typically consist of sources transmitting updates of different sizes, ranging from a few bytes (position, temperature, etc.) to multiple megabytes (images, video frames, LIDAR point scans, etc.). Existing approaches to wireless scheduling for information freshness typically ignore this mix of large and small updates, leading to suboptimal performance. In this paper, we consider a single-hop wireless broadcast network with sources transmitting updates of different sizes to a base station over unreliable links. Some sources send large updates spanning many time slots while others send small updates spanning only a few time slots. Due to medium access constraints, only one source can transmit to the base station at any given time slot, thus requiring careful design of scheduling policies that takes the sizes of updates into account. 
-  </p>
-
-  <p>
-  In [C3], we firstly derive a lower bound on the achievable Age of Information (AoI) by any transmission scheduling policy. Second, we develop optimal randomized policies that consider both switching and no-switching during the transmission of large updates. Third, we introduce a novel Lyapunov function and associated analysis to propose an AoI-based Max-Weight policy that has a provable constant factor optimality guarantee. Finally, we evaluate and compare the performance of our proposed scheduling policies through simulations, which show that our Max-Weight  achieve near-optimal AoI performance. 
-  </p>
-  <div style="text-align:center; margin-bottom:15px;">
-    <img src="/images/WiOPT_2025_2.png" alt="Figure_INFOCOM 2025" style="max-width:70%; border-radius:10px; box-shadow:0 2px 6px rgba(0,0,0,0.15);"/>
+  <!-- 左侧文字 -->
+  <div style="flex:2; min-width:300px;">
+    <p>
+    Modern sensing and monitoring systems often involve sources generating updates of heterogeneous sizes, ranging from small telemetry data such as position and temperature measurements to large-scale data such as images, video frames, and LiDAR point clouds. Existing wireless scheduling approaches for information freshness often neglect this heterogeneity, resulting in suboptimal performance. In this paper, we study a single-hop wireless broadcast network in which multiple sources transmit updates of different sizes to a base station over unreliable links. Some sources generate large updates that span multiple time slots, while others generate small updates occupying only a few slots. Because only one source can transmit to the base station in each time slot, it is necessary to design scheduling policies that account for the update size diversity. 
+    </p>
+    <p>
+    In [C3], we first derive a lower bound on the achievable Age of Information (AoI) under any transmission scheduling policy. Then, we propose optimal randomized policies that consider both switching and non-switching behaviors during large update transmissions. We introduce a Lyapunov-based analytical framework to design an AoI-aware Max-Weight policy with a provable constant-factor optimality guarantee. Finally, we evaluate the proposed policies through extensive simulations, showing that the Max-Weight policy achieves near-optimal AoI performance across a variety of network conditions. 
+    </p>
+    <p>
+    In [J3], motivated by transmission scheduling frameworks for minimizing AoI in multihop wireless networks, we further develop an Age Debt policy based on a Lyapunov formulation that incorporates virtual age-debt queues. This approach enables one-slot Lyapunov drift analysis for networks with heterogeneous update lengths ($L_i > 1$), where the objective is to minimize the cumulative age debt across multiple virtual queues. The key insight is that scheduling large updates with $L_i > 1$ is structurally similar to scheduling transmissions in multihop networks, since in both cases multiple transmissions are required before an AoI reduction occurs. Building on this analogy, we adapt the multihop solution framework proposed in previous work (Tripathi et al., 2021) to our heterogeneous update setting. Simulation results show that the Age Debt policy can outperform the Max-Weight policy under certain network configurations.
+    </p>
   </div>
-  <p>
-  In [J3], inspired by transmission scheduling frameworks for minimizing AoI in multihop wireless networks, we further develop an Age-Debt policy based on a Lyapunov formulation incorporating virtual age-debt queues. This approach enables a one-slot Lyapunov drift analysis for networks with heterogeneous update lengths ($L_i > 1$), where the objective is to minimize the aggregate age-debt across multiple virtual queues. The key insight is that scheduling large updates with $L_i > 1$ shares structural similarities with multihop transmission scheduling, i.e., in both cases, multiple transmissions are required before a reduction in AoI is realized. Leveraging this analogy, we adapt the multihop solution framework from prior work (<i>Tripathi et al., 2021</i>) to our heterogeneous-update setting. Simulation results show that the proposed Age-Debt policy can outperform the Max-Weight policy under certain network configurations.
-  </p>
+
+  <!-- 右侧两张堆叠的图片 -->
+  <div style="flex:1; min-width:220px; display:flex; flex-direction:column; align-items:center; gap:15px;">
+    <img src="/images/WiOPT_2025_1.png" alt="WiOPT Figure 1" style="max-width:100%; border-radius:10px; box-shadow:0 2px 6px rgba(0,0,0,0.15);"/>
+    <img src="/images/WiOPT_2025_2.png" alt="WiOPT Figure 2" style="max-width:100%; border-radius:10px; box-shadow:0 2px 6px rgba(0,0,0,0.15);"/>
+  </div>
+
 </div>
 </div>
 
