@@ -1,7 +1,7 @@
 
 ---
 layout: single
-title: "Publications"
+title: "Research"
 permalink: /publications/
 author_profile: true
 ---
@@ -11,18 +11,19 @@ author_profile: true
 
 <h3 style="margin-top:0;">
 <a href="https://arxiv.org/pdf/2407.18531" target="_blank" style="color:#007ACC; text-decoration:none;">
-Optimal Bilinear Equalizer for Cell-Free Massive MIMO Systems over Correlated Rician Channels
+Optimizing Age of Information without Knowing the Age of Information
 </a>
 </h3>
 
 <p>
-<b>📅 Published:</b> <i>IEEE Transactions on Signal Processing</i>, February 2025
+<b>📅 Published:</b> <i>IEEE INFOCOM</i>, May 2025
 </p>
 
 <div style="display:flex; align-items:flex-start; gap:20px;">
   <div style="flex:2;">
     <p>
-    We explore the low-complexity optimal bilinear equalizer (OBE) combining scheme design for cell-free massive multiple-input multiple-output networks with spatially correlated Rician fading channels. We propose one centralized and two distributed OBE schemes: Centralized OBE (C-OBE), Distributed OBE based on Global channel statistics (DG-OBE), and Distributed OBE based on Local channel statistics (DL-OBE), which maximize their respective SE expressions. OBE matrices in these schemes are tailored based on varying levels of channel statistics.
+    We consider a network where a wireless base station (BS) connects multiple source-destination pairs. Packets from each source are generated according to a general renewal process and are enqueued in a single packet queue that stores only the latest generated packet. The BS decides, at each time slot $t$, which sources to schedule. Selected sources transmit their packet to the BS via unreliable links. Successfully received packets are forwarded to their corresponding destinations. The connection between the BS and the destinations is assumed unreliable and delayed. Each served packet will be delivered to the corresponding destination after two transmissions: a wireless uplink transmission and a multi-hop heterogeneous transmission with a two-way delay. The BS decides, at each time slot, which sources to serve to the corresponding destinations. Information freshness at the destination is captured by the Age of Information (AoI) metric. The objective of the scheduling decisions is to leverage the imperfect (i.e., delayed and unreliable) knowledge of the AoI to keep the information at the destinations as fresh as possible. %, despite having imperfect knowledge of the AoI at the destinations. 
+    In this work, we derive a lower bound on the achievable AoI by any transmission scheduling policy. Then, we develop an optimal randomized policy for any packet generation processes. Next, we develop minimum mean square error estimators of the AoI and system times, and develop a Max-Weight policy that leverages these estimators. We evaluate the AoI of the optimal randomized policy and of the Max-Weight policy both analytically and through simulations. The numerical results suggest that the Max-Weight policy with estimation outperforms the optimal randomized policy even when the BS has no knowledge of the AoI at the destination.
     </p>
 
     <p><b>Citation:</b> Zhe Wang, Jiayi Zhang, Emil Björnson, Dusit Niyato, Bo Ai, 
