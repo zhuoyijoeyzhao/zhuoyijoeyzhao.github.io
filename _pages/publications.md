@@ -1,9 +1,12 @@
 
 ---
-
-title: "Research"
-permalink: /publications/
+permalink: /
+title: ""
+excerpt: ""
 author_profile: true
+redirect_from: 
+  - /publication/
+  - /publication.html
 ---
 
 <!-- ===== Publication 1 ===== -->
