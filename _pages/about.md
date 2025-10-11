@@ -84,7 +84,7 @@ Achieving Age of Information-Aware Scheduling in Real-World System
   </p>
 
   <p>
-  In [J2], we further develop a <b>Low-Complexity Estimator</b> based on a <b>Bernoulli Approximation</b>, which maintains provable performance guarantees while significantly reducing computational cost. We implement the proposed estimator in <b>NetSim</b>—a system-level 5G network simulator—to further demonstrate its performance and generalization capability in realistic wireless network scenarios.
+  In [J2], we further develop a Low-Complexity Estimator based on a Bernoulli Approximation, which achieves near-optimal performance and maintains provable performance guarantees while significantly reducing computational cost. We implement the proposed estimator in NetSim, a system-level 5G network simulator, to further demonstrate its performance and generalization capability in realistic wireless network scenarios.
   </p>
 </div>
 </div>
