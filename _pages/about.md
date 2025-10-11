@@ -30,6 +30,8 @@ My current research interests lie in My current research interest is to develop 
 
 ## Publications
 
+**Conference Paper**  
+
 - **Z. Zhao**, V. Tripathi, I. Kadota. *Optimizing Age of Information in Networks with Large and Small Updates.* To appear in **WiOpt 2025**. (Invited paper)  
 
 - **Z. Zhao**, I. Kadota. *Optimizing Age of Information Without Knowing the Age of Information.* To appear in **IEEE INFOCOM 2025**. (Acceptance rate: 18.7%)  
