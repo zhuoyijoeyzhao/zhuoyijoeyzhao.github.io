@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 My name is Zhuoyi Zhao, and I am currently a Graduate Research Assistant at the University of Toronto, supervised by Prof. Ben Liang.  
-Prior to this, I received the M.S. in Electrical and Engineering from Northwestern University, Evanston, USA, in 2025, where I was supervised by Prof. Igor Kadota, and the B.E. in Information Engineering from Beijing Jiaotong University, Beijing, China, in 2023, under the supervision of Prof. Jiayi Zhang.
+Prior to this, I received the M.S. in Electrical and Engineering from Northwestern University, Evanston, USA, in 2025, where I was supervised by [Prof. Igor Kadota](https://sites.northwestern.edu/kadota/), and the B.E. in Information Engineering from Beijing Jiaotong University, Beijing, China, in 2023, under the supervision of [Prof. Jiayi Zhang](https://sites.google.com/site/jiayizhang8650/).
 My current research interests lie in My current research interest is to develop theories and models that capture the fundamental limits and trade-offs of next-generation communication networks and multi-agent systems.
 
 ## News
