@@ -77,7 +77,7 @@ Achieving Age of Information-Awared Scheduling in Real-World System
   </div>
 
   <div style="flex:1; text-align:center;">
-    <img src="images/INFOCOM_2025.pdf" alt="Figure_INFOCOM 2025" style="max-width:100%; border-radius:8px;"/>
+    <img src="images/INFOCOM_2025.png" alt="Figure_INFOCOM 2025" style="max-width:100%; border-radius:8px;"/>
   </div>
 </div>
 </div>
