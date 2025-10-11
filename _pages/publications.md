@@ -1,11 +1,10 @@
-
 ---
 permalink: /
-title: ""
+title: "Research"
 excerpt: ""
 author_profile: true
 redirect_from: 
-  - /publication/
+  - /publication
   - /publication.html
 ---
 
