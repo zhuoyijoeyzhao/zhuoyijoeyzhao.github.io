@@ -94,26 +94,28 @@ Achieving Age of Information-Aware Scheduling in Real-World System
 
 <h3 style="margin-top:0; text-align:left;">
 <a href="https://arxiv.org/pdf/2503.23658" target="_blank" style="color:#007ACC; text-decoration:none;">
-Achieving Age of Information-Aware Scheduling in Real-World System
+Minimizing Age of Information in Networks with Heterogeneous Updates
 </a>
 </h3>
 
 
 <div style="text-align:center; margin-bottom:15px;">
-  <img src="/images/INFOCOM_2025.png" alt="Figure_INFOCOM 2025" style="max-width:90%; border-radius:10px; box-shadow:0 2px 6px rgba(0,0,0,0.15);"/>
+  <img src="/images/WiOPT_2025_1.png" alt="Figure_INFOCOM 2025" style="max-width:90%; border-radius:10px; box-shadow:0 2px 6px rgba(0,0,0,0.15);"/>
 </div>
 
 <div>
   <p>
-  We consider a network where a wireless base station (BS) connects multiple source–destination pairs. Packets from each source are generated according to a general renewal process and are stored in a single-packet queue that always keeps the latest generated packet. At each time slot $t$, the BS decides which sources to schedule for transmission. The selected sources send their packets to the BS through unreliable uplink channels. Successfully received packets are then forwarded to their corresponding destinations through unreliable and delayed downlink connections. Each delivered packet thus undergoes two transmission stages: a wireless uplink transmission and a multi-hop heterogeneous transmission with a two-way delay. The freshness of information at the destination is measured by the Age of Information (AoI) metric. The objective of the scheduling policy is to leverage imperfect (i.e., delayed and unreliable) feedback of the AoI to keep the destination information as fresh as possible.
+Modern sensing and monitoring applications typically consist of sources transmitting updates of different sizes, ranging from a few bytes (position, temperature, etc.) to multiple megabytes (images, video frames, LIDAR point scans, etc.). Existing approaches to wireless scheduling for information freshness typically ignore this mix of large and small updates, leading to suboptimal performance. In this paper, we consider a single-hop wireless broadcast network with sources transmitting updates of different sizes to a base station over unreliable links. Some sources send large updates spanning many time slots while others send small updates spanning only a few time slots. Due to medium access constraints, only one source can transmit to the base station at any given time slot, thus requiring careful design of scheduling policies that takes the sizes of updates into account. 
   </p>
 
   <p>
-  In [C2], we derive a lower bound on the achievable AoI under any transmission scheduling policy. Then, we design an optimal randomized policy applicable to general packet generation processes. Next, we develop minimum mean square error estimators of the AoI and system times, based on which we propose a Max-Weight scheduling policy that exploits these estimators. We evaluate the AoI performance of both the optimal randomized and Max-Weight policies analytically and through simulations. The numerical results show that the Max-Weight policy with estimation achieves lower AoI than the optimal randomized policy, even when the BS has no direct knowledge of the destination AoI.
+  In [C3], we firstly derive a lower bound on the achievable Age of Information (AoI) by any transmission scheduling policy. Second, we develop optimal randomized policies that consider both switching and no-switching during the transmission of large updates. Third, we introduce a novel Lyapunov function and associated analysis to propose an AoI-based Max-Weight policy that has a provable constant factor optimality guarantee. Finally, we evaluate and compare the performance of our proposed scheduling policies through simulations, which show that our Max-Weight  achieve near-optimal AoI performance. 
   </p>
-
+  <div style="text-align:center; margin-bottom:15px;">
+    <img src="/images/WiOPT_2025_2.png" alt="Figure_INFOCOM 2025" style="max-width:70%; border-radius:10px; box-shadow:0 2px 6px rgba(0,0,0,0.15);"/>
+  </div>
   <p>
-  In [J2], we further develop a Low-Complexity Estimator based on a Bernoulli Approximation, which achieves near-optimal performance and maintains provable performance guarantees while significantly reducing computational cost. We implement the proposed estimator in NetSim, a system-level 5G network simulator, to further demonstrate its performance and generalization capability in realistic wireless network scenarios.
+  In [J3], inspired by transmission scheduling frameworks for minimizing AoI in multihop wireless networks, we further develop an Age-Debt policy based on a Lyapunov formulation incorporating virtual age-debt queues. This approach enables a one-slot Lyapunov drift analysis for networks with heterogeneous update lengths ($L_i > 1$), where the objective is to minimize the aggregate age-debt across multiple virtual queues. The key insight is that scheduling large updates with $L_i > 1$ shares structural similarities with multihop transmission scheduling, i.e., in both cases, multiple transmissions are required before a reduction in AoI is realized. Leveraging this analogy, we adapt the multihop solution framework from prior work (<i>Tripathi et al., 2021</i>) to our heterogeneous-update setting. Simulation results show that the proposed Age-Debt policy can outperform the Max-Weight policy under certain network configurations.
   </p>
 </div>
 </div>
