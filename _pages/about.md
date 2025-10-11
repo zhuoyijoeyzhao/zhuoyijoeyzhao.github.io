@@ -23,18 +23,18 @@ My current research interests lie in My current research interest is to develop 
 
 ---
 
-## Experience
-- Aug. 2025 – present,**Graduate Research Assistant**, University of Toronto, Focus on online optimization & communication-efficient FL.
-  
-- Fall 2024,**Grader**, EE 307 Communication Systems, Northwestern University .
-
----
-
 ## Education
 
 - *2023.09 - 2025.06*, Northwestern University, Master of Science in Electrical Engineering (Thesis-track). *Thesis:* *Optimizing Age-of-Information in Real-World Networks*.
   
 - *2019.09 - 2023.06*, Beijing Jiaotong University, Bachelor of Engineering in Information Engineering. 
+
+---
+
+## Experience
+- Aug. 2025 – present, Graduate Research Assistant, University of Toronto, Focus on Online Optimization & Communication-Efficient Fedarated Learning.
+  
+- Fall 2024, Grader, EE 307 Communication Systems, Northwestern University.
 
 ---
 
@@ -78,5 +78,4 @@ My current research interests lie in My current research interest is to develop 
 ---
 
 ## Contact
-- Email: **zhuoyijoeyzhao@gmail.com**  
-- GitHub: [zhuoyijoeyzhao](https://github.com/zhuoyijoeyzhao)  
+- Email: **zhuoyijoeyzhao@gmail.com, ZhuoyiZhao@u.northwestern.edu**  
