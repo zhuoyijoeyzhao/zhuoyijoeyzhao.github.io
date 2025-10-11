@@ -99,7 +99,7 @@ Achieving Age of Information-Aware Scheduling in Real-World System
   <!-- ✅ 左右两列布局 -->
   <div style="display:flex; align-items:flex-start; gap:25px;">
     <!-- 左侧文字 -->
-    <div style="flex:1.5; min-width:260px;">
+    <div style="flex:1.4; min-width:260px;">
       <p>
         Modern sensing and monitoring systems often involve sources generating updates of heterogeneous sizes, ranging from small telemetry data such as position and temperature measurements to large scale data such as images, video frames, and LiDAR point clouds. Existing wireless scheduling approaches for information freshness often neglect this heterogeneity, resulting in suboptimal performance. In this paper, we study a single hop wireless broadcast network in which multiple sources transmit updates of different sizes to a base station over unreliable links. Some sources generate large updates that span multiple time slots, while others generate small updates occupying only a few slots. Because only one source can transmit to the base station in each time slot, it is necessary to design scheduling policies that account for the update size diversity.
       </p>
@@ -111,7 +111,7 @@ Achieving Age of Information-Aware Scheduling in Real-World System
       </p>
     </div>
     <!-- 右侧两张堆叠的图片（放大 20%） -->
-    <div style="flex:1.2; min-width:240px; display:flex; flex-direction:column; align-items:center; gap:20px;">
+    <div style="flex:1.1; min-width:240px; display:flex; flex-direction:column; align-items:center; gap:20px;">
       <img src="/images/WiOPT_2025_1.png" alt="WiOPT Figure 1" style="max-width:120%; border-radius:10px; box-shadow:0 2px 6px rgba(0,0,0,0.15);"/>
       <img src="/images/WiOPT_2025_2.png" alt="WiOPT Figure 2" style="max-width:120%; border-radius:10px; box-shadow:0 2px 6px rgba(0,0,0,0.15);"/>
     </div>
