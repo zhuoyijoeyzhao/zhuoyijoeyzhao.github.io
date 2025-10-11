@@ -137,8 +137,8 @@ Achieving Age of Information-Aware Scheduling in Real-World System
 ---
 
 ## Skills
-- Programming: **C, MATLAB, Python, LabVIEW, NetSim**.  
-- Languages: **TOEFL 109**.
+- Programming: C, MATLAB, Python, LabVIEW, NetSim.  
+- Languages: TOEFL 109.
 
 ---
 
