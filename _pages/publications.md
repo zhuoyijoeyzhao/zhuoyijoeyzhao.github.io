@@ -25,16 +25,10 @@ Optimizing Age of Information without Knowing the Age of Information
     We consider a network where a wireless base station (BS) connects multiple source-destination pairs. Packets from each source are generated according to a general renewal process and are enqueued in a single packet queue that stores only the latest generated packet. The BS decides, at each time slot $t$, which sources to schedule. Selected sources transmit their packet to the BS via unreliable links. Successfully received packets are forwarded to their corresponding destinations. The connection between the BS and the destinations is assumed unreliable and delayed. Each served packet will be delivered to the corresponding destination after two transmissions: a wireless uplink transmission and a multi-hop heterogeneous transmission with a two-way delay. The BS decides, at each time slot, which sources to serve to the corresponding destinations. Information freshness at the destination is captured by the Age of Information (AoI) metric. The objective of the scheduling decisions is to leverage the imperfect (i.e., delayed and unreliable) knowledge of the AoI to keep the information at the destinations as fresh as possible. %, despite having imperfect knowledge of the AoI at the destinations. 
     In this work, we derive a lower bound on the achievable AoI by any transmission scheduling policy. Then, we develop an optimal randomized policy for any packet generation processes. Next, we develop minimum mean square error estimators of the AoI and system times, and develop a Max-Weight policy that leverages these estimators. We evaluate the AoI of the optimal randomized policy and of the Max-Weight policy both analytically and through simulations. The numerical results suggest that the Max-Weight policy with estimation outperforms the optimal randomized policy even when the BS has no knowledge of the AoI at the destination.
     </p>
-
-    <p><b>Citation:</b> Zhe Wang, Jiayi Zhang, Emil Björnson, Dusit Niyato, Bo Ai, 
-    "<i>Optimal Bilinear Equalizer for Cell-Free Massive MIMO Systems over Correlated Rician Channels</i>," 
-    <i>IEEE Transactions on Signal Processing</i>, accepted, 2025.  
-    <br><b>Paper Link:</b> <a href="https://arxiv.org/pdf/2407.18531" target="_blank">https://arxiv.org/pdf/2407.18531</a>
-    </p>
   </div>
 
   <div style="flex:1; text-align:center;">
-    <img src="/images/obe_2025.png" alt="OBE Figure" style="max-width:100%; border-radius:8px;"/>
+    <img src="/images/INFOCOM_2025.pdf" alt="OBE Figure" style="max-width:100%; border-radius:8px;"/>
   </div>
 </div>
 </div>
