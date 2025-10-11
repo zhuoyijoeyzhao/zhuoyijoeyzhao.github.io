@@ -101,9 +101,9 @@ Achieving Age of Information-Aware Scheduling in Real-World System
 ---
 
 # Honor and award
-*Edward S. Rogers Sr. Graduate Scholarship*, University of Toronto, 2025-2029
+- *Edward S. Rogers Sr. Graduate Scholarship*, University of Toronto, 2025-2029
 
-*Best Electrical Engineering MS Thesis Award*, Northwestern University, 2025
+- *Best Electrical Engineering MS Thesis Award*, Northwestern University, 2025
 
 ---
 
