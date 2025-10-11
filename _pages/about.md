@@ -98,30 +98,31 @@ Minimizing Age of Information in Networks with Heterogeneous Updates
 </a>
 </h3>
 
-<div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:20px;">
+<div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:25px;">
 
   <!-- 左侧文字 -->
-  <div style="flex:2; min-width:300px;">
+  <div style="flex:1.8; min-width:300px;">
     <p>
     Modern sensing and monitoring systems often involve sources generating updates of heterogeneous sizes, ranging from small telemetry data such as position and temperature measurements to large-scale data such as images, video frames, and LiDAR point clouds. Existing wireless scheduling approaches for information freshness often neglect this heterogeneity, resulting in suboptimal performance. In this paper, we study a single-hop wireless broadcast network in which multiple sources transmit updates of different sizes to a base station over unreliable links. Some sources generate large updates that span multiple time slots, while others generate small updates occupying only a few slots. Because only one source can transmit to the base station in each time slot, it is necessary to design scheduling policies that account for the update size diversity. 
     </p>
+
     <p>
     In [C3], we first derive a lower bound on the achievable Age of Information (AoI) under any transmission scheduling policy. Then, we propose optimal randomized policies that consider both switching and non-switching behaviors during large update transmissions. We introduce a Lyapunov-based analytical framework to design an AoI-aware Max-Weight policy with a provable constant-factor optimality guarantee. Finally, we evaluate the proposed policies through extensive simulations, showing that the Max-Weight policy achieves near-optimal AoI performance across a variety of network conditions. 
     </p>
+
     <p>
     In [J3], motivated by transmission scheduling frameworks for minimizing AoI in multihop wireless networks, we further develop an Age Debt policy based on a Lyapunov formulation that incorporates virtual age-debt queues. This approach enables one-slot Lyapunov drift analysis for networks with heterogeneous update lengths ($L_i > 1$), where the objective is to minimize the cumulative age debt across multiple virtual queues. The key insight is that scheduling large updates with $L_i > 1$ is structurally similar to scheduling transmissions in multihop networks, since in both cases multiple transmissions are required before an AoI reduction occurs. Building on this analogy, we adapt the multihop solution framework proposed in previous work (Tripathi et al., 2021) to our heterogeneous update setting. Simulation results show that the Age Debt policy can outperform the Max-Weight policy under certain network configurations.
     </p>
   </div>
 
-  <!-- 右侧两张堆叠的图片 -->
-  <div style="flex:1; min-width:220px; display:flex; flex-direction:column; align-items:center; gap:15px;">
-    <img src="/images/WiOPT_2025_1.png" alt="WiOPT Figure 1" style="max-width:100%; border-radius:10px; box-shadow:0 2px 6px rgba(0,0,0,0.15);"/>
-    <img src="/images/WiOPT_2025_2.png" alt="WiOPT Figure 2" style="max-width:100%; border-radius:10px; box-shadow:0 2px 6px rgba(0,0,0,0.15);"/>
+  <!-- 右侧两张堆叠的图片（加大宽度） -->
+  <div style="flex:1.2; min-width:260px; display:flex; flex-direction:column; align-items:center; gap:20px;">
+    <img src="/images/WiOPT_2025_1.png" alt="WiOPT Figure 1" style="max-width:120%; border-radius:10px; box-shadow:0 2px 6px rgba(0,0,0,0.15);"/>
+    <img src="/images/WiOPT_2025_2.png" alt="WiOPT Figure 2" style="max-width:120%; border-radius:10px; box-shadow:0 2px 6px rgba(0,0,0,0.15);"/>
   </div>
 
 </div>
 </div>
-
 
 
 
