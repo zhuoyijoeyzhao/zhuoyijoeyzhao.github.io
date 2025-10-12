@@ -17,7 +17,7 @@ redirect_from:
 
 My name is Zhuoyi Zhao, and I am currently a Graduate Research Assistant at the University of Toronto, supervised by Prof. Ben Liang.  
 Prior to this, I received the M.S. in Electrical and Engineering from Northwestern University, Evanston, USA, in 2025, where I was supervised by [Prof. Igor Kadota](https://sites.northwestern.edu/kadota/), and the B.E. in Information Engineering from Beijing Jiaotong University, Beijing, China, in 2023, under the supervision of [Prof. Jiayi Zhang](https://sites.google.com/site/jiayizhang8650/).
-My current research interest is to develop theories and models that capture the fundamental limits and trade-offs of communication networks, Fedarated Learning and multi-agent systems.
+My current research interest is to develop theories and models that capture the fundamental limits and trade-offs of communication networks, fedarated learning and multi-agent systems.
 
 
 
@@ -42,9 +42,9 @@ My current research interest is to develop theories and models that capture the 
 
 **Conference Paper**  
 
-- [C3] **Z. Zhao**, V. Tripathi, I. Kadota. *Optimizing Age of Information in Networks with Large and Small Updates.* To appear in **WiOpt 2025**. (Invited paper)  
+- [C3] **Z. Zhao**, V. Tripathi, I. Kadota. *Optimizing Age of Information in Networks with Large and Small Updates.* **WiOpt 2025**. (Invited paper)  
 
-- [C2] **Z. Zhao**, I. Kadota. *Optimizing Age of Information Without Knowing the Age of Information.* To appear in **IEEE INFOCOM 2025**. (Acceptance rate: 18.7%)  
+- [C2] **Z. Zhao**, I. Kadota. *Optimizing Age of Information Without Knowing the Age of Information.* **IEEE INFOCOM 2025**. (Acceptance rate: 18.7%)  
 
 - [C1] J. Zheng, **Z. Zhao**, J. Zhang, J. Cheng, V. Leung. *Performance Analysis of Cell-Free Massive MIMO Systems with Asynchronous Reception.* **IEEE Globecom Workshops**, 2023.  
 
@@ -57,7 +57,7 @@ My current research interest is to develop theories and models that capture the 
 
 
 ---
-## Research
+## Research Projects
 
 <!-- ===== Publication 1 ===== -->
 <div style="border:1px solid #ddd; border-radius:10px; padding:20px; margin-bottom:25px; box-shadow:0 1px 3px rgba(0,0,0,0.1); background-color:white; text-align:justify;">
@@ -143,4 +143,4 @@ Achieving Age of Information-Aware Scheduling in Real-World System
 ---
 
 ## Contact
-- Email: **zhuoyijoeyzhao@gmail.com, ZhuoyiZhao@u.northwestern.edu**  
+- Email: **zhuoyijoeyzhao@gmail.com, zhuoyizhao@u.northwestern.edu**  
