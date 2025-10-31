@@ -17,7 +17,7 @@ redirect_from:
 
 My name is Zhuoyi Zhao, and I am currently a Graduate Research Assistant at the University of Toronto, supervised by Prof. Ben Liang.  
 Prior to this, I received the M.S. in Electrical and Engineering from Northwestern University, Evanston, USA, in 2025, where I was supervised by [Prof. Igor Kadota](https://sites.northwestern.edu/kadota/), and the B.E. in Information Engineering from Beijing Jiaotong University, Beijing, China, in 2023, under the supervision of [Prof. Jiayi Zhang](https://sites.google.com/site/jiayizhang8650/).
-My current research interest is to develop theories and models that capture the fundamental limits and trade-offs of communication networks, fedarated learning and multi-agent systems.
+My current research interest is to develop theories and models that capture the fundamental limits and trade-offs of communication networks, federated learning and multi-agent systems.
 
 
 
@@ -32,7 +32,7 @@ My current research interest is to develop theories and models that capture the 
 ---
 
 ## Experience
-- Aug. 2025 – present, Graduate Research Assistant, University of Toronto, Focus on Online Optimization & Communication-Efficient Fedarated Learning.
+- Aug. 2025 – present, Graduate Research Assistant, University of Toronto, Focus on Online Optimization & Communication-Efficient Federated Learning.
   
 - Fall 2024, Grader, EE 307 Communication Systems, Northwestern University.
 
