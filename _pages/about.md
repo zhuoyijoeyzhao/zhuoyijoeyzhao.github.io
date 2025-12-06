@@ -49,7 +49,7 @@ My current research interest is to develop theories and models that capture the 
 - [C1] J. Zheng, **Z. Zhao**, J. Zhang, J. Cheng, V. Leung. *Performance Analysis of Cell-Free Massive MIMO Systems with Asynchronous Reception.* **IEEE Globecom Workshops**, 2023.  
 
 **Journal manuscripts**  
-- [J3] **Z. Zhao**, V. Tripathi, I. Kadota. *Minimizing Age of Information in Networks with Heterogeneous Updates.* (submitted), **IEEE/ACM Transactions on Networking**.
+- [J3] **Z. Zhao**, V. Tripathi, I. Kadota. *Scheduling Policies for Age Minimization in Wireless Networks with Mixed Update Sizes.* (submitted), **IEEE/ACM Transactions on Networking**.
   
 - [J2] **Z. Zhao**, I. Kadota. *Minimizing Age of Information Without Knowing the Age of Information.* (in preparation), **IEEE/ACM Transactions on Networking**.
   
