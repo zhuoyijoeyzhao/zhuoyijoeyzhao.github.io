@@ -40,21 +40,25 @@ My current research interest is to develop theories and models that capture the 
 
 ## Publications
 
+**Manuscripts Under Review**
+
+- [M5] **Z. Zhao**, B. Liang. *Adaptive Data Admission and Retention for Streaming Federated Learning*, **ACM MobiHoc**.
+
+- [M4] **Z. Zhao**, I. Kadota. [*Toward Practical Age-of-Information Scheduling in 5G Cellular*](https://arxiv.org/pdf/2605.13012), **IEEE GlobeCom**.
+
+- [M3] **Z. Zhao**, V. Tripathi, I. Kadota. *Scheduling Policies for Age Minimization in Wireless Networks with Mixed Update Sizes*, **IEEE/ACM Transactions on Networking**.
+  
+- [M2] **Z. Zhao**, I. Kadota. *Minimizing Age of Information Without Knowing the Age of Information*, **IEEE/ACM Transactions on Networking**.
+
+- [M1] Y. Chen, **Z. Zhao**, I. Kadota, I. Hou. *Minimizing Age of Information in Random Access Networks with Age Threshold*, **IEEE/ACM Transactions on Networking**.
+  
 **Conference Paper**  
 
-- [C3] **Z. Zhao**, V. Tripathi, I. Kadota. *Optimizing Age of Information in Networks with Large and Small Updates.* **WiOpt 2025**. (Invited paper)  
+- [C3] **Z. Zhao**, V. Tripathi, I. Kadota. [*Optimizing Age of Information in Networks with Large and Small Updates*](https://arxiv.org/pdf/2503.23658), **WiOpt 2025**. (Invited paper)  
 
-- [C2] **Z. Zhao**, I. Kadota. *Optimizing Age of Information Without Knowing the Age of Information.* **IEEE INFOCOM 2025**. (Acceptance rate: 18.7%)  
+- [C2] **Z. Zhao**, I. Kadota. [*Optimizing Age of Information Without Knowing the Age of Information*](https://arxiv.org/pdf/2501.06688), **IEEE INFOCOM 2025**. (Acceptance rate: 18.7%)  
 
-- [C1] J. Zheng, **Z. Zhao**, J. Zhang, J. Cheng, V. Leung. *Performance Analysis of Cell-Free Massive MIMO Systems with Asynchronous Reception.* **IEEE Globecom Workshops**, 2023.  
-
-**Journal manuscripts**  
-- [J3] **Z. Zhao**, V. Tripathi, I. Kadota. *Scheduling Policies for Age Minimization in Wireless Networks with Mixed Update Sizes.* (submitted), **IEEE/ACM Transactions on Networking**.
-  
-- [J2] **Z. Zhao**, I. Kadota. *Minimizing Age of Information Without Knowing the Age of Information.* (in preparation), **IEEE/ACM Transactions on Networking**.
-  
-- [J1] Y. Chen, **Z. Zhao**, I. Kadota, I. Hou. *Minimizing Age of Information in Random Access Networks with Age Threshold.* (in preparation), **IEEE/ACM Transactions on Networking**.
-
+- [C1] J. Zheng, **Z. Zhao**, J. Zhang, J. Cheng, V. Leung. [*Performance Analysis of Cell-Free Massive MIMO Systems with Asynchronous Reception*](https://arxiv.org/pdf/2210.08869), **IEEE GlobeCom Workshops**, 2023. 
 
 ---
 ## Research Projects
