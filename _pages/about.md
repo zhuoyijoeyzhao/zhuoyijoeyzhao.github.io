@@ -132,6 +132,14 @@ Achieving Age of Information-Aware Scheduling in Real-World System
 - *Dec. 2024*: Our paper entitled “Optimizing Age of Information without Knowing the Age of Information” has been accepted by **IEEE INFOCOM 2025**. See you in London!
 
 ---
+# Services
+- Journal reviewer:
+IEEE Transactions on Mobile Computing
+- Conference reviewer:
+IEEE Global Communications Conference (GLOBECOM)
+- Teaching Assistant, *EE 307: Communication Systems*, Northwestern University, Fall 2024.
+
+---
 
 # Honor and award
 - *Edward S. Rogers Sr. Graduate Scholarship*, University of Toronto, 2025-2029
