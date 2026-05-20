@@ -142,7 +142,7 @@ IEEE Global Communications Conference (GLOBECOM)
 ---
 
 # Honor and award
-- *Edward S. Rogers Sr. Graduate Scholarship*, University of Toronto, 2025-2029
+- *Postgraduate Scholarship*, University of Hong Kong, 2026-2030
 
 - *Best Electrical Engineering MS Thesis Award*, Northwestern University, 2025
 
