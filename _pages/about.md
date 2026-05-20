@@ -33,8 +33,6 @@ My current research interest is to develop theories and models that capture the 
 
 ## Experience
 - Aug. 2025 – present, Graduate Research Assistant, University of Toronto, Focus on Online Optimization & Communication-Efficient Federated Learning.
-  
-- Fall 2024, Grader, EE 307 Communication Systems, Northwestern University.
 
 ---
 
