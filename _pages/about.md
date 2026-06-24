@@ -28,7 +28,7 @@ I am actively seeking collaboration opportunities. If you are interested in my r
 
 ## Education
 
-- *2026.07 - present*, the University of Hong Kong, Ph.D in Electrical and Computer Engineering. 
+- *2026.07 - present*, University of Hong Kong, Ph.D in Electrical and Computer Engineering. 
 
 - *2023.09 - 2025.06*, Northwestern University, Master of Science in Electrical Engineering (Thesis-track). *Thesis:* *Optimizing Age-of-Information in Real-World Networks*.
   
