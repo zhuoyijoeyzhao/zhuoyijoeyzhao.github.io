@@ -15,8 +15,9 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-My name is Zhuoyi Zhao, and I am currently a Graduate Research Assistant at the University of Toronto, supervised by [Prof. Ben Liang](http://www.comm.utoronto.ca/~liang).  
-Prior to this, I received the M.S. in Electrical and Engineering from Northwestern University, Evanston, USA, in 2025, where I was supervised by [Prof. Igor Kadota](https://sites.northwestern.edu/kadota/), and the B.E. in Information Engineering from Beijing Jiaotong University, Beijing, China, in 2023, under the supervision of [Prof. Jiayi Zhang](https://sites.google.com/site/jiayizhang8650/).
+My name is Zhuoyi Zhao, and I am currently a Ph.D. student at The University of Hong Kong, supervised by [Prof. Xianhao Chen](https://xianhaochen.net/).
+
+Previously, I was a Graduate Research Assistant at the University of Toronto, supervised by [Prof. Ben Liang](http://www.comm.utoronto.ca/~liang). I received the M.S. degree in Electrical Engineering from Northwestern University, Evanston, USA, in 2025, where I was supervised by [Prof. Igor Kadota](https://sites.northwestern.edu/kadota/), and the B.E. degree in Information Engineering from Beijing Jiaotong University, Beijing, China, in 2023, under the supervision of [Prof. Jiayi Zhang](https://sites.google.com/site/jiayizhang8650/).
 
 My current research interests focus on developing theories and models that capture the fundamental limits and trade-offs in communication networks, federated learning, and multi-agent systems.
 
@@ -27,6 +28,8 @@ I am actively seeking collaboration opportunities. If you are interested in my r
 
 ## Education
 
+- *2026.07 - present*, the University of Hong Kong, Ph.D in Electrical and Computer Engineering. 
+
 - *2023.09 - 2025.06*, Northwestern University, Master of Science in Electrical Engineering (Thesis-track). *Thesis:* *Optimizing Age-of-Information in Real-World Networks*.
   
 - *2019.09 - 2023.06*, Beijing Jiaotong University, Bachelor of Engineering in Information Engineering. 
@@ -34,7 +37,7 @@ I am actively seeking collaboration opportunities. If you are interested in my r
 ---
 
 ## Experience
-- Aug. 2025 – present, Graduate Research Assistant, University of Toronto, Focus on Online Optimization & Communication-Efficient Federated Learning.
+- Aug. 2025 – May. 2026, Graduate Research Assistant, University of Toronto, Focus on Online Optimization & Communication-Efficient Federated Learning.
 
 ---
 
@@ -42,9 +45,9 @@ I am actively seeking collaboration opportunities. If you are interested in my r
 
 **Manuscripts Under Review**
 
-- [M5] **Z. Zhao**, B. Liang. *Adaptive Data Admission and Retention for Streaming Federated Learning*, **ACM MobiHoc**.
+- [M5] **Z. Zhao**, B. Liang. *Adaptive Data Admission and Retention for Streaming Federated Learning*, **ACM MobiHoc 2026**.
 
-- [M4] **Z. Zhao**, I. Kadota. [*Toward Practical Age-of-Information Scheduling in 5G Cellular*](https://arxiv.org/pdf/2605.13012), **IEEE GlobeCom**.
+- [M4] **Z. Zhao**, I. Kadota. [*Toward Practical Age-of-Information Scheduling in 5G Cellular*](https://arxiv.org/pdf/2605.13012), **IEEE GlobeCom 2026**.
 
 - [M3] **Z. Zhao**, V. Tripathi, I. Kadota. *Scheduling Policies for Age Minimization in Wireless Networks with Mixed Update Sizes*, **IEEE/ACM Transactions on Networking**.
   
