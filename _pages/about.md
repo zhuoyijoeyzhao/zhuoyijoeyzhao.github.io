@@ -49,7 +49,7 @@ I am (always) actively seeking collaboration opportunities. If you are intereste
 
 - [M4] **Z. Zhao**, I. Kadota. [*Toward Practical Age-of-Information Scheduling in 5G Cellular*](https://arxiv.org/pdf/2605.13012), **IEEE GlobeCom 2026**.
   
-- [M3] **Z. Zhao**, V. Tripathi, I. Kadota. *Scheduling Policies for Age Minimization in Wireless Networks with Mixed Update Sizes*, **IEEE/ACM Transactions on Networking**.
+- [M3] **Z. Zhao**, V. Tripathi, I. Kadota. *Scheduling Policies for Age Minimization in Wireless Networks with Mixed Update Sizes*, **IEEE/ACM Transactions on Networking**, Major Revision.
  
 - [M2] **Z. Zhao**, I. Kadota. *Minimizing Age of Information Without Knowing the Age of Information*, **IEEE/ACM Transactions on Networking**.
 
