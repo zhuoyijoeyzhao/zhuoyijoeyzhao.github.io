@@ -61,7 +61,8 @@ I am (always) actively seeking collaboration opportunities. If you are intereste
 
 - [C2] **Z. Zhao**, I. Kadota. "[*Optimizing Age of Information Without Knowing the Age of Information*](https://arxiv.org/pdf/2501.06688)", **IEEE INFOCOM 2025**. (Acceptance rate: 18.7%)  
 
-- [C1] J. Zheng, **Z. Zhao**, J. Zhang, J. Cheng, V. Leung. "[*Performance Analysis of Cell-Free Massive MIMO Systems with Asynchronous Reception*](https://arxiv.org/pdf/2210.08869)", **IEEE GlobeCom Workshops**, 2023. 
+- [C1] J. Zheng, **Z. Zhao**, J. Zhang, J. Cheng, V. Leung. "[*Performance Analysis of Cell-Free Massive MIMO Systems with Asynchronous Reception*](https://arxiv.org/pdf/2210.08869)", **IEEE GlobeCom Workshops**, 2023.
+
 
 ---
 
