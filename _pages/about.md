@@ -51,9 +51,9 @@ I am (always) actively seeking collaboration opportunities. If you are intereste
   
 - [M3] **Z. Zhao**, V. Tripathi, I. Kadota. *Scheduling Policies for Age Minimization in Wireless Networks with Mixed Update Sizes*, **IEEE/ACM Transactions on Networking**, Major Revision.
  
-- [M2] **Z. Zhao**, I. Kadota. *Minimizing Age of Information Without Knowing the Age of Information*, **IEEE/ACM Transactions on Networking**.
+- [M2] **Z. Zhao**, I. Kadota. *Minimizing Age of Information Without Knowing the Age of Information*, submitted to IEEE for possible publication.
 
-- [M1] Y. Chen, **Z. Zhao**, I. Kadota, I. Hou. *Minimizing Age of Information in Random Access Networks with Age Threshold*, **IEEE/ACM Transactions on Networking**.
+- [M1] Y. Chen, **Z. Zhao**, I. Kadota, I. Hou. *Minimizing Age of Information in Random Access Networks with Age Threshold*, submitted to IEEE for possible publication.
   
 **Conference Paper**  
 
@@ -90,10 +90,8 @@ IEEE Global Communications Conference (GLOBECOM)
 
 ## Skills
 - Programming: C, MATLAB, Python, LabVIEW, NetSim.
-  
-- Languages: TOEFL 109.
 
 ---
 
 ## Contact
-- Email: **zhuoyijoeyzhao@connect.hku.hk, zhuoyijoeyzhao@gmail.com, zhuoyizhao@u.northwestern.edu**  
+- Email: **zhuoyijoeyzhao@connect.hku.hk, zhuoyijoeyzhao@gmail.com**  
