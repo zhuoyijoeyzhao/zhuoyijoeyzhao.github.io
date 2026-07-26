@@ -45,15 +45,15 @@ I am (always) actively seeking collaboration opportunities. If you are intereste
 
 **Manuscripts Under Review**
 
-- [M5] **Z. Zhao**, B. Liang. "*Adaptive Data Admission and Retention for Streaming Federated Learning*", **ACM MobiHoc 2026**.
+- [M5] **Z. Zhao**, B. Liang. "*Adaptive Data Admission and Retention for Streaming Federated Learning*", submitted to ACM conferences for possible publication.
 
-- [M4] **Z. Zhao**, I. Kadota. "[*Toward Practical Age-of-Information Scheduling in 5G Cellular*](https://arxiv.org/pdf/2605.13012)", **IEEE GlobeCom 2026**.
+- [M4] **Z. Zhao**, I. Kadota. "[*Toward Practical Age-of-Information Scheduling in 5G Cellular*](https://arxiv.org/pdf/2605.13012)", submitted to IEEE conferences for possible publication.
   
 - [M3] **Z. Zhao**, V. Tripathi, I. Kadota. "*Scheduling Policies for Age Minimization in Wireless Networks with Mixed Update Sizes*", **IEEE/ACM Transactions on Networking**, Major Revision.
  
-- [M2] **Z. Zhao**, I. Kadota. "*Minimizing Age of Information Without Knowing the Age of Information*", submitted to IEEE for possible publication.
+- [M2] **Z. Zhao**, I. Kadota. "*Minimizing Age of Information Without Knowing the Age of Information*", submitted to IEEE journals for possible publication.
 
-- [M1] Y. Chen, **Z. Zhao**, I. Kadota, I. Hou. "*Minimizing Age of Information in Random Access Networks with Age Threshold*", submitted to IEEE for possible publication.
+- [M1] Y. Chen, **Z. Zhao**, I. Kadota, I. Hou. "*Minimizing Age of Information in Random Access Networks with Age Threshold*", submitted to IEEE journals for possible publication.
   
 **Conference Paper**  
 
