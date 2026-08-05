@@ -73,10 +73,11 @@ I am (always) actively seeking collaboration opportunities. If you are intereste
 
 ---
 # Services
-- Journal reviewer:
-IEEE Transactions on Mobile Computing
-- Conference reviewer:
-IEEE Global Communications Conference (GLOBECOM)
+- *Journal reviewer*:
+- IEEE Transactions on Mobile Computing
+- IEEE Wireless Communication Letters
+- *Conference reviewer*:
+- IEEE Global Communications Conference (GLOBECOM)
 - Teaching Assistant, *EE 307: Communication Systems*, Northwestern University, Fall 2024.
 
 ---
