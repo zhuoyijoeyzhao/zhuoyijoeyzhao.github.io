@@ -67,7 +67,7 @@ I am (always) actively seeking collaboration opportunities. If you are intereste
 
 ## News
 - *May. 2026*: After more than a year of waiting for my visa, I decided to join **The University of Hong Kong** to pursue my Ph.D. Despite the difficult circumstances, I truly enjoyed my research experience this year. Many thanks to my advisor, **[Prof. Ben Liang](http://www.comm.utoronto.ca/~liang)**, for his support throughout this journey, it has been a great honor to work with him.
-- *Aug. 2025*: Admitted to the **Ph.D. program at the University of Toronto** with the **Edward S. Rogers Sr. Graduate Scholarship**, but was unable to enroll due to visa delays.
+- *Aug. 2025*: Admitted to the **Ph.D. program at the University of Toronto** with the **Edward S. Rogers Sr. Graduate Scholarship**, but was unable to enroll due to visa delays. :(
 - *May. 2025*: Awarded the **Best Electrical Engineering MS Thesis Award** for my Thesis entitled “Optimizing Age of Information in Real-World Network”. Sincere gratitude to my advisor, **[Prof. Igor Kadota](https://sites.northwestern.edu/kadota/)**.
 - *May. 2025*: Just presented the paper entitled “Optimizing Age of Information without Knowing the Age of Information” in **IEEE INFOCOM 2025** and enjoyed a wonderful trip. The [Open Source Code](https://github.com/Net-X-Research-Group/AoI_Estimator/tree/main) for this work could be found here. 
 - *Mar. 2025*: Our paper entitled “Optimizing Age of Information in Networks with Large and Small Updates” has been accepted by **WiOPT 2025**. See you in Linköping!
