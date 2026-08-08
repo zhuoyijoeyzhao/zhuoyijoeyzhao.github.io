@@ -67,48 +67,24 @@ I am (always) actively seeking collaboration opportunities. If you are intereste
 
 ## News
 
-## News
+- *May. 2026*: After more than a year of waiting for my visa, I decided to join **The University of Hong Kong** to pursue my Ph.D. Despite the difficult circumstances, I truly enjoyed my research experience this year. Many thanks to my advisor, **[Prof. Ben Liang](http://www.comm.utoronto.ca/~liang)**, for his support throughout this journey; it has been a great honor to work with him.
 
-<ul>
-  <li>
-    <em>May. 2026</em>: After more than a year of waiting for my visa, I decided to join <strong>The University of Hong Kong</strong> to pursue my Ph.D. Despite the difficult circumstances, I truly enjoyed my research experience this year. Many thanks to my advisor, <strong><a href="http://www.comm.utoronto.ca/~liang">Prof. Ben Liang</a></strong>, for his support throughout this journey; it has been a great honor to work with him.
-  </li>
+- *Aug. 2025*: Admitted to the **Ph.D. program at the University of Toronto** with the **Edward S. Rogers Sr. Graduate Scholarship**, but was unable to enroll due to visa delays. :(
 
-  <li>
-    <em>Aug. 2025</em>: Admitted to the <strong>Ph.D. program at the University of Toronto</strong> with the <strong>Edward S. Rogers Sr. Graduate Scholarship</strong>, but was unable to enroll due to visa delays. :(
-  </li>
-</ul>
+<img src="/images/withIgor_May2025.jpg"
+      alt="With Prof. Igor Kadota"
+      style="float: right; width: 250px; height: auto; margin: 0 0 12px 24px; border-radius: 8px;">
 
-<div style="display: flex; align-items: center; gap: 20px; margin-top: -8px; margin-bottom: 8px;">
+- *May. 2025*: Awarded the **Best Electrical Engineering MS Thesis Award** for my Thesis entitled “Optimizing Age of Information in Real-World Network”. Sincere gratitude to my advisor, **[Prof. Igor Kadota](https://sites.northwestern.edu/kadota/)**.
 
-  <div style="flex: 1;">
-    <ul style="margin-top: 0; margin-bottom: 0;">
-      <li>
-        <em>May. 2025</em>: Awarded the <strong>Best Electrical Engineering MS Thesis Award</strong> for my Thesis entitled “Optimizing Age of Information in Real-World Network”. Sincere gratitude to my advisor, <strong><a href="https://sites.northwestern.edu/kadota/">Prof. Igor Kadota</a></strong>.
-      </li>
+- *May. 2025*: Just presented the paper entitled “Optimizing Age of Information without Knowing the Age of Information” in **IEEE INFOCOM 2025** and enjoyed a wonderful trip. The [Open Source Code](https://github.com/Net-X-Research-Group/AoI_Estimator/tree/main) for this work could be found here.
 
-      <li>
-        <em>May. 2025</em>: Just presented the paper entitled “Optimizing Age of Information without Knowing the Age of Information” in <strong>IEEE INFOCOM 2025</strong> and enjoyed a wonderful trip. The <a href="https://github.com/Net-X-Research-Group/AoI_Estimator/tree/main">Open Source Code</a> for this work could be found here.
-      </li>
-    </ul>
-  </div>
+<div style="clear: both;"></div>
 
-  <img src="/images/withIgor_May2025.jpg"
-       alt="With Prof. Igor Kadota"
-       style="width: 250px; height: auto; border-radius: 8px;">
-</div>
+- *Mar. 2025*: Our paper entitled “Optimizing Age of Information in Networks with Large and Small Updates” has been accepted by **WiOPT 2025**. See you in Linköping!
 
-<ul>
-  <li>
-    <em>Mar. 2025</em>: Our paper entitled “Optimizing Age of Information in Networks with Large and Small Updates” has been accepted by <strong>WiOPT 2025</strong>. See you in Linköping!
-  </li>
+- *Dec. 2024*: Our paper entitled “Optimizing Age of Information without Knowing the Age of Information” has been accepted by **IEEE INFOCOM 2025**. See you in London!
 
-  <li>
-    <em>Dec. 2024</em>: Our paper entitled “Optimizing Age of Information without Knowing the Age of Information” has been accepted by <strong>IEEE INFOCOM 2025</strong>. See you in London!
-  </li>
-</ul>
-
----
 
 
 ---
