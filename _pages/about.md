@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-My name is Zhuoyi Zhao, and I am currently a Ph.D. student at The University of Hong Kong, supervised by [Prof. Xianhao Chen](https://xianhaochen.net/).
+My name is Zhuoyi Zhao, and I am currently a first-year Ph.D. student at The University of Hong Kong, supervised by [Prof. Xianhao Chen](https://xianhaochen.net/).
 
 Previously, I was a Graduate Research Assistant at the University of Toronto, supervised by [Prof. Ben Liang](http://www.comm.utoronto.ca/~liang). I received the M.S. degree in Electrical Engineering from Northwestern University, Evanston, USA, in 2025, where I was supervised by [Prof. Igor Kadota](https://sites.northwestern.edu/kadota/), and the B.E. degree in Information Engineering from Beijing Jiaotong University, Beijing, China, in 2023, under the supervision of [Prof. Jiayi Zhang](https://sites.google.com/site/jiayizhang8650/).
 
