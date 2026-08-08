@@ -82,9 +82,9 @@ I am (always) actively seeking collaboration opportunities. If you are intereste
 
 ---
 
-# Honor and award
+# Honor and awards
 - *Postgraduate Scholarship*, University of Hong Kong, 2026-2030
-
+- *Edward S. Rogers Sr. Graduate Scholarship*, University of Toronto, 2025
 - *Best Electrical Engineering MS Thesis Award*, Northwestern University, 2025
 
 ---
