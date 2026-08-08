@@ -67,8 +67,8 @@ I am (always) actively seeking collaboration opportunities. If you are intereste
 
 ## News
 
-- *May. 2026*: After more than a year of waiting for my visa, I decided to join **The University of Hong Kong** to pursue my Ph.D. Despite the difficult circumstances, I truly enjoyed my research experience this year. Many thanks to my advisor, **[Prof. Ben Liang](http://www.comm.utoronto.ca/~liang)**, for his support throughout this journey; it has been a great honor to work with him.
-- *Aug. 2025*: Admitted to the **Ph.D. program at the University of Toronto** with the **Edward S. Rogers Sr. Graduate Scholarship**, but was unable to enroll due to visa delays. :(
+- *May. 2026*: After more than a year of waiting for my visa, I decided to join The University of Hong Kong to pursue my Ph.D. Despite the difficult circumstances, I truly enjoyed my research experience this year. Many thanks to my advisor, **[Prof. Ben Liang](http://www.comm.utoronto.ca/~liang)**, for his support throughout this journey; it has been a great honor to work with him.
+- *Aug. 2025*: Admitted to the Ph.D. program at the University of Toronto with the Edward S. Rogers Sr. Graduate Scholarship, but was unable to enroll due to visa delays. :(
 
 <img src="/images/withIgor_May2025.jpg"
       alt="With Prof. Igor Kadota"
