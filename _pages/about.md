@@ -67,6 +67,8 @@ I am (always) actively seeking collaboration opportunities. If you are intereste
 
 ## News
 
+## News
+
 <ul>
   <li>
     <em>May. 2026</em>: After more than a year of waiting for my visa, I decided to join <strong>The University of Hong Kong</strong> to pursue my Ph.D. Despite the difficult circumstances, I truly enjoyed my research experience this year. Many thanks to my advisor, <strong><a href="http://www.comm.utoronto.ca/~liang">Prof. Ben Liang</a></strong>, for his support throughout this journey; it has been a great honor to work with him.
@@ -75,22 +77,28 @@ I am (always) actively seeking collaboration opportunities. If you are intereste
   <li>
     <em>Aug. 2025</em>: Admitted to the <strong>Ph.D. program at the University of Toronto</strong> with the <strong>Edward S. Rogers Sr. Graduate Scholarship</strong>, but was unable to enroll due to visa delays. :(
   </li>
+</ul>
 
-  <li style="margin-bottom: 16px;">
-    <div style="display: flex; align-items: center; gap: 20px;">
-      <div style="flex: 1;">
+<div style="display: flex; align-items: center; gap: 20px; margin-top: -8px; margin-bottom: 8px;">
+
+  <div style="flex: 1;">
+    <ul style="margin-top: 0; margin-bottom: 0;">
+      <li>
         <em>May. 2025</em>: Awarded the <strong>Best Electrical Engineering MS Thesis Award</strong> for my Thesis entitled “Optimizing Age of Information in Real-World Network”. Sincere gratitude to my advisor, <strong><a href="https://sites.northwestern.edu/kadota/">Prof. Igor Kadota</a></strong>.
-      </div>
-      <img src="/images/withIgor_May2025.jpg"
-           alt="With Prof. Igor Kadota"
-           style="width: 250px; border-radius: 8px;">
-    </div>
-  </li>
+      </li>
 
-  <li>
-    <em>May. 2025</em>: Just presented the paper entitled “Optimizing Age of Information without Knowing the Age of Information” in <strong>IEEE INFOCOM 2025</strong> and enjoyed a wonderful trip. The <a href="https://github.com/Net-X-Research-Group/AoI_Estimator/tree/main">Open Source Code</a> for this work could be found here.
-  </li>
+      <li>
+        <em>May. 2025</em>: Just presented the paper entitled “Optimizing Age of Information without Knowing the Age of Information” in <strong>IEEE INFOCOM 2025</strong> and enjoyed a wonderful trip. The <a href="https://github.com/Net-X-Research-Group/AoI_Estimator/tree/main">Open Source Code</a> for this work could be found here.
+      </li>
+    </ul>
+  </div>
 
+  <img src="/images/withIgor_May2025.jpg"
+       alt="With Prof. Igor Kadota"
+       style="width: 250px; height: auto; border-radius: 8px;">
+</div>
+
+<ul>
   <li>
     <em>Mar. 2025</em>: Our paper entitled “Optimizing Age of Information in Networks with Large and Small Updates” has been accepted by <strong>WiOPT 2025</strong>. See you in Linköping!
   </li>
@@ -99,6 +107,8 @@ I am (always) actively seeking collaboration opportunities. If you are intereste
     <em>Dec. 2024</em>: Our paper entitled “Optimizing Age of Information without Knowing the Age of Information” has been accepted by <strong>IEEE INFOCOM 2025</strong>. See you in London!
   </li>
 </ul>
+
+---
 
 
 ---
