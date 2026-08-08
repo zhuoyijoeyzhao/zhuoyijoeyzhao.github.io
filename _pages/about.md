@@ -72,7 +72,7 @@ I am (always) actively seeking collaboration opportunities. If you are intereste
   <div style="flex: 1;">
     <em>May. 2025</em>: Awarded the <strong>Best Electrical Engineering MS Thesis Award</strong> for my Thesis entitled “Optimizing Age of Information in Real-World Network”. Sincere gratitude to my advisor, <strong><a href="https://sites.northwestern.edu/kadota/">Prof. Igor Kadota</a></strong>.
   </div>
-  <img src="/images/Igot_with_Zhuoyi.jpg"
+  <img src="/images/withIgor_May2025.jpg"
        alt="With Prof. Igor Kadota"
        style="width: 250px; border-radius: 8px;">
 </div>
