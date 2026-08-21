@@ -87,7 +87,7 @@ I am (always) actively seeking collaboration opportunities. If you are intereste
 *IEEE Transactions on Mobile Computing*;
 *IEEE Wireless Communication Letters*
 - *Conference reviewer*:
-*IEEE Global Communications Conference (GLOBECOM)*
+*IEEE INFOCOM 2027*; *IEEE GLOBECOM 2026*
 - Teaching Assistant, *EE 307: Communication Systems*, Northwestern University, Fall 2024.
 
 ---
@@ -95,11 +95,6 @@ I am (always) actively seeking collaboration opportunities. If you are intereste
 # Honor and awards
 - *Postgraduate Scholarship*, University of Hong Kong, 2026-2030
 - *Best Electrical Engineering MS Thesis Award*, Northwestern University, 2025
-
----
-
-## Skills
-- Programming: C, MATLAB, Python, LabVIEW, NetSim.
 
 ---
 
