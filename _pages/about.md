@@ -44,6 +44,8 @@ I am (always) actively seeking collaboration opportunities. If you are intereste
 ## Publications
 
 **Manuscripts Under Review**
+- [M6] Y. Chen, S. Fan, **Z. Zhao**, I. Hou, I. Kadota."*Analysis and Optimization of Age of Infomation in Large Scale Random Access Networks*", submitted to IEEE Conferences for possible publication.
+
 - [M5] Y. Ma, **Z. Zhao**, Z. Fang, H. An, X. Chen, Y. Fang."[*Update the Unseen Only: Minimizing AoI for Collaborative Perception through Online Learning*](https://arxiv.org/pdf/2607.20967)", submitted to IEEE journals for possible publication.
 
 - [M4] **Z. Zhao**, B. Liang."[*Adaptive Data Admission and Retention for Streaming Federated Learning*](https://arxiv.org/pdf/2607.23987)", submitted to ACM conferences for possible publication.
