@@ -58,7 +58,7 @@ redirect_from:
   margin: 1.9em 0 0.8em;
   padding-bottom: 0.35em;
   border-bottom: 1px solid var(--home-rule);
-  color: var(--home-accent);
+  color: var(--home-green);
   font-family: Georgia, "Times New Roman", serif;
   font-size: 1.48em;
   font-weight: 700;
@@ -68,7 +68,7 @@ redirect_from:
 
 .page__content h3 {
   margin: 1.4em 0 0.85em;
-  color: var(--home-ink);
+  color: var(--home-green);
   font-family: inherit;
   font-size: 1.04em;
   font-weight: 600;
@@ -83,16 +83,6 @@ redirect_from:
   font-size: 0.72em;
   font-weight: 400;
   vertical-align: 0.05em;
-}
-
-.page__content #education,
-.page__content #news {
-  color: var(--home-green);
-}
-
-.page__content #experience,
-.page__content #services {
-  color: var(--home-blue);
 }
 
 .page__content .publication-group::before {
@@ -169,8 +159,8 @@ redirect_from:
 .page__content .publication-id {
   margin-right: 0.25em;
   color: var(--home-green);
-  font-size: 0.86em;
-  font-weight: 400;
+  font-size: 1em;
+  font-weight: 700;
   font-variant-numeric: tabular-nums;
   white-space: nowrap;
 }
@@ -234,7 +224,7 @@ I am (always) actively seeking collaboration opportunities. If you are intereste
 
 - *2019 - 2023*, Beijing Jiaotong University, Bachelor of Engineering in Information Engineering.
 
-<h2 id="experience">Experience</h2>
+<h2 id="experience"><span class="section-icon" aria-hidden="true">💼</span>Experience</h2>
 
 - Aug. 2025 – May. 2026, Graduate Research Assistant, University of Toronto, Focus on Online Optimization & Communication-Efficient Federated Learning.
 
@@ -309,7 +299,7 @@ I am (always) actively seeking collaboration opportunities. If you are intereste
 - *Mar. 2025*: Our paper entitled “Optimizing Age of Information in Networks with Large and Small Updates” has been accepted by **WiOPT 2025**. See you in Linköping!
 - *Dec. 2024*: Our paper entitled “Optimizing Age of Information without Knowing the Age of Information” has been accepted by **IEEE INFOCOM 2025**. See you in London!
 
-<h2 id="services">Services</h2>
+<h2 id="services"><span class="section-icon" aria-hidden="true">🤝</span>Services</h2>
 
 - **Journal reviewer**
   - *IEEE/ACM Transactions on Networking*
@@ -318,15 +308,13 @@ I am (always) actively seeking collaboration opportunities. If you are intereste
 - **Conference reviewer**
   - *IEEE INFOCOM 2027*
   - *IEEE GLOBECOM 2026*
-- **Teaching Assistant**:
-  - *EE 307: Communication Systems*, Northwestern University, Fall 2024
+- **Teaching Assistant**: *EE 307: Communication Systems*, Northwestern University, Fall 2024
 
 <h2 id="honors-and-awards"><span class="section-icon" aria-hidden="true">🏅</span>Honors and Awards</h2>
 
 - *Postgraduate Scholarship*, University of Hong Kong, 2026-2030
 - *Best Electrical Engineering MS Thesis Award*, Northwestern University, 2025
 
-<h2 id="contact">Contact</h2>
+<h2 id="contact"><span class="section-icon" aria-hidden="true">✉️</span>Contact</h2>
 
 - Email: **zhuoyijoeyzhao@connect.hku.hk, zhuoyijoeyzhao@gmail.com**
-
