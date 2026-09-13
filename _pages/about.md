@@ -216,13 +216,13 @@ Previously, I was a Graduate Research Assistant at the University of Toronto, su
 
 My current research interests focus on developing theories and models that capture the fundamental limits and trade-offs in networked systems.
 
-- **Optimization and Control**
+- <strong style="color: var(--home-blue);">Optimization and Control</strong>
   - Stochastic control and optimization
   - Online optimization
-- **Wireless networks**
-  - Information Freshness
-  - Experimental validation in real-world networks
-- **Machine learning**
+- <strong style="color: var(--home-purple);">Wireless Networks</strong>
+  - Information freshness
+  - Network algorithms and systems
+- <strong style="color: var(--home-green);">Machine Learning</strong>
   - Continual learning
   - Distributed learning
 
