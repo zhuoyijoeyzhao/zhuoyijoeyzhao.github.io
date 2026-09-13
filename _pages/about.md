@@ -220,10 +220,10 @@ My current research interests focus on developing theories and models that captu
   - Stochastic control and optimization
   - Age of Information (AoI)
   - Experimental validation in real-world networks
-- **Federated learning**
-  - Learning from streaming data
+- **Machine learning**
+  - Machine Learning Theory
   - Continual learning
-  - Model splitting for split federated learning
+  - Distributed learning
 
 I am (always) actively seeking collaboration opportunities. If you are interested in my research, please feel free to reach out via email at zhuoyijoeyzhao@gmail.com or WeChat: joeyzzhao.
 
