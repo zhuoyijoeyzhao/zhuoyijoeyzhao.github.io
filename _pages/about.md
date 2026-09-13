@@ -15,12 +15,15 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <style>
-/* Homepage-only typography with restrained Northwestern Purple accents. */
+/* Homepage typography: Northwestern Purple, HKU Green, and U of T Blue. */
 .page__content {
   --home-ink: #303138;
-  --home-accent: #4E2A84;
+  --home-purple: #4E2A84;
+  --home-green: #024638;
+  --home-blue: #002A5C;
+  --home-accent: var(--home-purple);
   --home-muted: #60616b;
-  --home-rule: #E4E0EE;
+  --home-rule: #dfe3e6;
   color: var(--home-ink);
   font-size: 17px;
   line-height: 1.68;
@@ -52,11 +55,12 @@ redirect_from:
 }
 
 .page__content h2 {
-  margin: 2em 0 0.8em;
+  margin: 1.9em 0 0.8em;
   padding-bottom: 0.35em;
   border-bottom: 1px solid var(--home-rule);
   color: var(--home-accent);
-  font-size: 1.35em;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.48em;
   font-weight: 700;
   line-height: 1.35;
   scroll-margin-top: 5rem;
@@ -64,11 +68,42 @@ redirect_from:
 
 .page__content h3 {
   margin: 1.4em 0 0.85em;
-  color: var(--home-accent);
-  font-size: 1.06em;
-  font-weight: 700;
+  color: var(--home-ink);
+  font-family: inherit;
+  font-size: 1.04em;
+  font-weight: 600;
   line-height: 1.4;
   scroll-margin-top: 5rem;
+}
+
+.page__content .section-icon {
+  display: inline-block;
+  margin-right: 0.4em;
+  font-family: "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", sans-serif;
+  font-size: 0.72em;
+  font-weight: 400;
+  vertical-align: 0.05em;
+}
+
+.page__content #education,
+.page__content #news {
+  color: var(--home-green);
+}
+
+.page__content #experience,
+.page__content #services {
+  color: var(--home-blue);
+}
+
+.page__content .publication-group::before {
+  display: inline-block;
+  width: 0.42em;
+  height: 0.42em;
+  margin-right: 0.55em;
+  border-radius: 50%;
+  background: var(--home-green);
+  content: "";
+  vertical-align: 0.13em;
 }
 
 .page__content ul {
@@ -88,7 +123,7 @@ redirect_from:
   margin-bottom: 0.65em;
 }
 
-/* Replace the theme's old negative-margin About anchor. */
+/* Override the theme's old negative-margin About anchor. */
 .page__content #about-me {
   display: block;
   height: 0;
@@ -133,9 +168,10 @@ redirect_from:
 
 .page__content .publication-id {
   margin-right: 0.25em;
-  color: var(--home-muted);
+  color: var(--home-green);
   font-size: 0.86em;
   font-weight: 400;
+  font-variant-numeric: tabular-nums;
   white-space: nowrap;
 }
 
@@ -145,6 +181,10 @@ redirect_from:
   line-height: 1.55;
 }
 
+.page__content .publication-authors strong {
+  color: var(--home-blue);
+}
+
 .page__content .publication-meta {
   color: var(--home-muted);
   font-size: 0.9em;
@@ -152,12 +192,12 @@ redirect_from:
 }
 
 .page__content .publication-venue {
-  color: var(--home-ink);
+  color: var(--home-muted);
   font-weight: 600;
 }
 
 .page__content .publication-status {
-  color: var(--home-accent);
+  color: var(--home-muted);
 }
 
 @media (max-width: 600px) {
@@ -167,6 +207,7 @@ redirect_from:
 
   .page__content h2 {
     margin-top: 1.7em;
+    font-size: 1.36em;
   }
 
   .page__content .publication-list > li {
@@ -185,7 +226,7 @@ My current research interests focus on developing theories and models that captu
 
 I am (always) actively seeking collaboration opportunities. If you are interested in my research, please feel free to reach out via email at zhuoyijoeyzhao@gmail.com or WeChat: joeyzzhao.
 
-## Education
+<h2 id="education"><span class="section-icon" aria-hidden="true">🎓</span>Education</h2>
 
 - *2026 - present*, University of Hong Kong, Ph.D in Electrical and Computer Engineering.
 
@@ -193,13 +234,13 @@ I am (always) actively seeking collaboration opportunities. If you are intereste
 
 - *2019 - 2023*, Beijing Jiaotong University, Bachelor of Engineering in Information Engineering.
 
-## Experience
+<h2 id="experience">Experience</h2>
 
 - Aug. 2025 – May. 2026, Graduate Research Assistant, University of Toronto, Focus on Online Optimization & Communication-Efficient Federated Learning.
 
-## Publications
+<h2 id="publications"><span class="section-icon" aria-hidden="true">📚</span>Publications</h2>
 
-### Manuscripts Under Review
+<h3 id="manuscripts-under-review" class="publication-group">Manuscripts Under Review</h3>
 
 <ul class="publication-list">
   <li>
@@ -234,7 +275,7 @@ I am (always) actively seeking collaboration opportunities. If you are intereste
   </li>
 </ul>
 
-### Conference Papers
+<h3 id="conference-papers" class="publication-group">Conference Papers</h3>
 
 <ul class="publication-list">
   <li>
@@ -254,7 +295,7 @@ I am (always) actively seeking collaboration opportunities. If you are intereste
   </li>
 </ul>
 
-## News
+<h2 id="news"><span class="section-icon" aria-hidden="true">📌</span>News</h2>
 
 - *May. 2026*: After more than a year of waiting for my visa, I decided to join The University of Hong Kong to pursue my Ph.D. Despite the difficult circumstances, I truly enjoyed my research experience this year. Many thanks to my advisor, **[Prof. Ben Liang](http://www.comm.utoronto.ca/~liang)**, for his support throughout this journey; it has been a great honor to work with him.
 - *Aug. 2025*: Admitted to the Ph.D. program at the University of Toronto with the Edward S. Rogers Sr. Graduate Scholarship, but was unable to enroll due to visa delays. :(
@@ -268,7 +309,7 @@ I am (always) actively seeking collaboration opportunities. If you are intereste
 - *Mar. 2025*: Our paper entitled “Optimizing Age of Information in Networks with Large and Small Updates” has been accepted by **WiOPT 2025**. See you in Linköping!
 - *Dec. 2024*: Our paper entitled “Optimizing Age of Information without Knowing the Age of Information” has been accepted by **IEEE INFOCOM 2025**. See you in London!
 
-## Services
+<h2 id="services">Services</h2>
 
 - **Journal reviewer**
   - *IEEE/ACM Transactions on Networking*
@@ -277,13 +318,15 @@ I am (always) actively seeking collaboration opportunities. If you are intereste
 - **Conference reviewer**
   - *IEEE INFOCOM 2027*
   - *IEEE GLOBECOM 2026*
-- **Teaching Assistant**: *EE 307: Communication Systems*, Northwestern University, Fall 2024
+- **Teaching Assistant**:
+  - *EE 307: Communication Systems*, Northwestern University, Fall 2024
 
-## Honors and Awards
+<h2 id="honors-and-awards"><span class="section-icon" aria-hidden="true">🏅</span>Honors and Awards</h2>
 
 - *Postgraduate Scholarship*, University of Hong Kong, 2026-2030
 - *Best Electrical Engineering MS Thesis Award*, Northwestern University, 2025
 
-## Contact
+<h2 id="contact">Contact</h2>
 
 - Email: **zhuoyijoeyzhao@connect.hku.hk, zhuoyijoeyzhao@gmail.com**
+
