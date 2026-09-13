@@ -158,7 +158,7 @@ redirect_from:
 
 .page__content .publication-id {
   margin-right: 0.25em;
-  color: var(--home-green);
+  color: var(--home-blue);
   font-size: 1em;
   font-weight: 700;
   font-variant-numeric: tabular-nums;
