@@ -212,7 +212,18 @@ My name is Zhuoyi Zhao, and I am currently a first-year Ph.D. student at The Uni
 
 Previously, I was a Graduate Research Assistant at the University of Toronto, supervised by [Prof. Ben Liang](http://www.comm.utoronto.ca/~liang). I received the M.S. degree in Electrical Engineering from Northwestern University, Evanston, USA, in 2025, where I was supervised by [Prof. Igor Kadota](https://sites.northwestern.edu/networkx/), and the B.E. degree in Information Engineering from Beijing Jiaotong University, Beijing, China, in 2023, under the supervision of [Prof. Jiayi Zhang](https://sites.google.com/site/jiayizhang8650/).
 
-My current research interests focus on developing theories and models that capture the fundamental limits and trade-offs in communication networks, federated learning, and multi-agent systems.
+<h2 id="research-interests"><span class="section-icon" aria-hidden="true">🔬</span>Research Interests</h2>
+
+My current research interests focus on developing theories and models that capture the fundamental limits and trade-offs in networked systems.
+
+- **Wireless networks**
+  - Stochastic control and optimization
+  - Age of Information (AoI)
+  - Experimental validation in real-world networks
+- **Federated learning**
+  - Learning from streaming data
+  - Continual learning
+  - Model splitting for split federated learning
 
 I am (always) actively seeking collaboration opportunities. If you are interested in my research, please feel free to reach out via email at zhuoyijoeyzhao@gmail.com or WeChat: joeyzzhao.
 
