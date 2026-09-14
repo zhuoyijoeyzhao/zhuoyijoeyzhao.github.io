@@ -5,7 +5,296 @@
 <meta name="msapplication-TileColor" content="#000000">
 <meta name="msapplication-TileImage" content="images/mstile-144x144.png?v=M44lzPylqQ">
 <meta name="msapplication-config" content="images/browserconfig.xml?v=M44lzPylqQ">
-<meta name="theme-color" content="#ffffff">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#ffffff" data-adaptive-theme>
+<script>
+(function () {
+  "use strict";
+  var root = document.documentElement;
+  var storageKey = "zhuoyi-homepage-appearance";
+  var systemTheme = window.matchMedia("(prefers-color-scheme: dark)");
+  var choice = "system";
+
+  function normalize(value) {
+    return value === "light" || value === "dark" ? value : "system";
+  }
+
+  function readChoice() {
+    try {
+      return normalize(window.localStorage.getItem(storageKey));
+    } catch (error) {
+      return "system";
+    }
+  }
+
+  function syncControls() {
+    document.querySelectorAll("[data-theme-picker]").forEach(function (control) {
+      control.value = choice;
+      var wrapper = control.closest(".appearance-picker");
+      if (wrapper) wrapper.hidden = false;
+    });
+  }
+
+  function applyChoice(value, persist) {
+    choice = normalize(value);
+    var mode = choice === "system" ? (systemTheme.matches ? "dark" : "light") : choice;
+    root.setAttribute("data-theme", mode);
+    root.setAttribute("data-theme-choice", choice);
+    root.style.colorScheme = mode;
+    var themeColor = document.querySelector('meta[name="theme-color"][data-adaptive-theme]');
+    if (themeColor) {
+      themeColor.setAttribute("content", mode === "dark" ? "#17191d" : "#ffffff");
+    }
+    if (persist) {
+      try {
+        if (choice === "system") window.localStorage.removeItem(storageKey);
+        else window.localStorage.setItem(storageKey, choice);
+      } catch (error) {
+        /* The control still works when browser storage is unavailable. */
+      }
+    }
+    syncControls();
+  }
+
+  applyChoice(readChoice(), false);
+
+  function systemChanged() {
+    if (choice === "system") applyChoice("system", false);
+  }
+  if (systemTheme.addEventListener) systemTheme.addEventListener("change", systemChanged);
+  else if (systemTheme.addListener) systemTheme.addListener(systemChanged);
+
+  document.addEventListener("change", function (event) {
+    if (event.target && event.target.matches("[data-theme-picker]")) {
+      applyChoice(event.target.value, true);
+    }
+  });
+  document.addEventListener("DOMContentLoaded", syncControls);
+  window.addEventListener("storage", function (event) {
+    if (event.key === storageKey || event.key === null) applyChoice(readChoice(), false);
+  });
+}());
+</script>
+<style>
+/* Color tokens shared by the homepage, navigation, and profile sidebar. */
+:root {
+  color-scheme: light;
+  --site-bg: #ffffff;
+  --site-raised: #f5f6f8;
+  --site-ink: #303138;
+  --site-muted: #60616b;
+  --site-rule: #dfe3e6;
+  --site-purple: #4E2A84;
+  --site-green: #024638;
+  --site-blue: #002A5C;
+  --site-link-hover: #401F68;
+  --site-button-bg: #7a8288;
+}
+
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --site-bg: #17191d;
+  --site-raised: #22262d;
+  --site-ink: #e5e8ed;
+  --site-muted: #b3bac5;
+  --site-rule: #3d444e;
+  --site-purple: #c6afea;
+  --site-green: #91cdb8;
+  --site-blue: #a9c9f5;
+  --site-link-hover: #e1d3f7;
+  --site-button-bg: #454e5c;
+}
+
+/* System preference remains available when JavaScript is disabled. */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme]) {
+    color-scheme: dark;
+    --site-bg: #17191d;
+    --site-raised: #22262d;
+    --site-ink: #e5e8ed;
+    --site-muted: #b3bac5;
+    --site-rule: #3d444e;
+    --site-purple: #c6afea;
+    --site-green: #91cdb8;
+    --site-blue: #a9c9f5;
+    --site-link-hover: #e1d3f7;
+    --site-button-bg: #454e5c;
+  }
+}
+
+html,
+body {
+  background-color: var(--site-bg);
+  color: var(--site-ink);
+}
+
+body a {
+  color: var(--site-purple);
+}
+
+body a:hover {
+  color: var(--site-link-hover);
+}
+
+.masthead,
+.greedy-nav {
+  background-color: var(--site-bg);
+  border-color: var(--site-rule);
+}
+
+.greedy-nav a {
+  color: var(--site-muted);
+}
+
+.greedy-nav a:hover {
+  color: var(--site-ink);
+}
+
+.greedy-nav button {
+  background-color: var(--site-button-bg);
+  color: #ffffff;
+}
+
+.greedy-nav .visible-links a::before {
+  background-color: var(--site-green);
+}
+
+.greedy-nav .hidden-links {
+  background-color: var(--site-raised);
+  border-color: var(--site-rule);
+}
+
+.greedy-nav .hidden-links li {
+  border-bottom-color: var(--site-rule);
+}
+
+.greedy-nav .hidden-links a:hover {
+  color: var(--site-ink);
+  background-color: var(--site-bg);
+}
+
+.greedy-nav .hidden-links::before {
+  border-color: var(--site-rule) transparent;
+}
+
+.greedy-nav .hidden-links::after {
+  border-color: var(--site-raised) transparent;
+}
+
+.sidebar,
+.author__name,
+.author__bio,
+.author__content,
+.author__urls,
+.author__urls_sm {
+  color: var(--site-ink);
+}
+
+.author__urls {
+  background-color: var(--site-bg);
+  border-color: var(--site-rule);
+}
+
+.author__urls::before {
+  border-color: var(--site-rule) transparent;
+}
+
+.author__urls::after {
+  border-color: var(--site-bg) transparent;
+}
+
+.author__urls a:hover,
+.author__urls_sm a:hover {
+  color: var(--site-purple);
+}
+
+.page__content,
+.page__title {
+  color: var(--site-ink);
+}
+
+.page__meta,
+.page__footer,
+.page__footer .fas,
+.page__footer .fab,
+.page__footer .far,
+.page__footer .fal {
+  color: var(--site-muted);
+}
+
+.page__footer {
+  background-color: var(--site-raised);
+  border-color: var(--site-rule);
+}
+
+hr,
+.page__content h1,
+table,
+thead,
+th,
+td,
+blockquote {
+  border-color: var(--site-rule);
+}
+
+p > code,
+a > code,
+li > code,
+figcaption > code,
+td > code {
+  color: var(--site-ink);
+  background-color: var(--site-raised);
+  border-color: var(--site-rule);
+}
+
+.appearance-picker {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  flex-wrap: wrap;
+  gap: 0.5em;
+  margin: 0 0 1.15em;
+  color: var(--site-muted);
+  font-family: inherit;
+  font-size: 0.85em;
+}
+
+.appearance-picker[hidden] {
+  display: none;
+}
+
+.appearance-picker label {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35em;
+  margin: 0;
+  color: var(--site-muted);
+  font-size: 1em;
+  font-weight: 400;
+}
+
+.appearance-picker select {
+  display: inline-block;
+  width: auto;
+  min-width: 7em;
+  min-height: 2.6em;
+  margin: 0;
+  padding: 0.35em 0.65em;
+  border: 1px solid var(--site-rule);
+  border-radius: 6px;
+  background-color: var(--site-bg);
+  color: var(--site-ink);
+  font-family: inherit;
+  font-size: 1em;
+  line-height: 1.4;
+  cursor: pointer;
+}
+
+.appearance-picker select:focus-visible {
+  outline: 2px solid var(--site-green);
+  outline-offset: 3px;
+}
+</style>
 <link rel="stylesheet" href="assets/css/academicons.css"/>
 
 <script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
