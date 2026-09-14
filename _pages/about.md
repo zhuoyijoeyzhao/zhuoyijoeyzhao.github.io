@@ -17,13 +17,13 @@ redirect_from:
 <style>
 /* Homepage typography: Northwestern Purple, HKU Green, and U of T Blue. */
 .page__content {
-  --home-ink: #303138;
-  --home-purple: #4E2A84;
-  --home-green: #024638;
-  --home-blue: #002A5C;
+  --home-ink: var(--site-ink, #303138);
+  --home-purple: var(--site-purple, #4E2A84);
+  --home-green: var(--site-green, #024638);
+  --home-blue: var(--site-blue, #002A5C);
   --home-accent: var(--home-purple);
-  --home-muted: #60616b;
-  --home-rule: #dfe3e6;
+  --home-muted: var(--site-muted, #60616b);
+  --home-rule: var(--site-rule, #dfe3e6);
   color: var(--home-ink);
   font-size: 17px;
   line-height: 1.68;
@@ -46,7 +46,7 @@ redirect_from:
 }
 
 .page__content a:hover {
-  color: #401F68;
+  color: var(--site-link-hover, #401F68);
 }
 
 .page__content a:focus-visible {
@@ -206,6 +206,15 @@ redirect_from:
 }
 </style>
 
+<div class="appearance-picker" hidden>
+  <label for="appearance-select"><span aria-hidden="true">◐</span> Appearance</label>
+  <select id="appearance-select" data-theme-picker>
+    <option value="system">System</option>
+    <option value="light">Light</option>
+    <option value="dark">Dark</option>
+  </select>
+</div>
+
 <div id="about-me" aria-hidden="true"></div>
 
 My name is Zhuoyi Zhao, and I am currently a first-year Ph.D. student at The University of Hong Kong, supervised by [Prof. Xianhao Chen](https://xianhaochen.net/).
@@ -330,3 +339,4 @@ I am (always) actively seeking collaboration opportunities. If you are intereste
 <h2 id="contact"><span class="section-icon" aria-hidden="true">✉️</span>Contact</h2>
 
 - Email: **zhuoyijoeyzhao@connect.hku.hk, zhuoyijoeyzhao@gmail.com**
+
