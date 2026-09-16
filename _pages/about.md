@@ -288,7 +288,7 @@ I am (always) actively seeking collaboration opportunities. If you are intereste
     <li>
     <div class="publication-title"><span class="publication-id">[C4]</span> Analysis and Optimization of Age of Infomation in Large Scale Random Access Networks</div>
     <div class="publication-authors">Y. Chen, S. Fan, <strong>Z. Zhao</strong>, I. Hou, I. Kadota</div>
-    <div class="publication-meta">IEEE Allerton Conference 2026 &middot; <span class="publication-status"> to appear</span></div>
+    <div class="publication-meta"><span class="publication-venue">IEEE Allerton Conference 2026</span> &middot; <span class="publication-status"> to appear</span></div>
   </li>
   <li>
     <div class="publication-title"><span class="publication-id">[C3]</span> <a href="https://arxiv.org/pdf/2503.23658">Optimizing Age of Information in Networks with Large and Small Updates</a></div>
