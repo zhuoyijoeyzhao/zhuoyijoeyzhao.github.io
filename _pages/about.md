@@ -254,7 +254,6 @@ I am (always) actively seeking collaboration opportunities. If you are intereste
 <h3 id="manuscripts-under-review" class="publication-group">Manuscripts Under Review</h3>
 
 <ul class="publication-list">
-
   <li>
     <div class="publication-title"><span class="publication-id">[M5]</span> <a href="https://arxiv.org/pdf/2607.20967">Update the Unseen Only: Minimizing AoI for Collaborative Perception through Online Learning</a></div>
     <div class="publication-authors">Y. Ma, <strong>Z. Zhao</strong>, Z. Fang, H. An, X. Chen, Y. Fang</div>
@@ -285,10 +284,10 @@ I am (always) actively seeking collaboration opportunities. If you are intereste
 <h3 id="conference-papers" class="publication-group">Conference Papers</h3>
 
 <ul class="publication-list">
-    <li>
-    <div class="publication-title"><span class="publication-id">[C4]</span> <a href="https://arxiv.org/pdf/2610.27612">Analysis and Optimization of Age of Infomation in Large Scale Random Access Networks</div>
+  <li>
+    <div class="publication-title"><span class="publication-id">[C4]</span> <a href="https://arxiv.org/pdf/2610.27612">Analysis and Optimization of Age of Information in Large-Scale Random Access Networks</a></div>
     <div class="publication-authors">Y. Chen, S. Fan, <strong>Z. Zhao</strong>, I. Hou, I. Kadota</div>
-    <div class="publication-meta"><span class="publication-venue">IEEE Allerton Conference 2026</span> </div>
+    <div class="publication-meta"><span class="publication-venue">IEEE Allerton Conference 2026</span> &middot; <a href="https://arxiv.org/pdf/2610.27612">Paper</a></div>
   </li>
   <li>
     <div class="publication-title"><span class="publication-id">[C3]</span> <a href="https://arxiv.org/pdf/2503.23658">Optimizing Age of Information in Networks with Large and Small Updates</a></div>
@@ -324,16 +323,16 @@ I am (always) actively seeking collaboration opportunities. If you are intereste
 <h2 id="services"><span class="section-icon" aria-hidden="true">🤝</span>Services</h2>
 
 - **Journal reviewer**
-  - *IEEE/ACM Transactions on Networking*
-  - *IEEE Transactions on Mobile Computing*
-  - *IEEE Internet of Things Journals*
-  - *IEEE Wireless Communication Letters*
-  - *ACM Computing Surveys*
+    - *IEEE/ACM Transactions on Networking*
+    - *IEEE Transactions on Mobile Computing*
+    - *IEEE Internet of Things Journals*
+    - *IEEE Wireless Communication Letters*
+    - *ACM Computing Surveys*
 - **Conference reviewer**
-  - *IEEE INFOCOM 2027*
-  - *IEEE GLOBECOM 2026*
+    - *IEEE INFOCOM 2027*
+    - *IEEE GLOBECOM 2026*
 - **Teaching Assistant**:
-  - *EE 307: Communication Systems*, Northwestern University, Fall 2024
+    - *EE 307: Communication Systems*, Northwestern University, Fall 2024
 
 <h2 id="honors-and-awards"><span class="section-icon" aria-hidden="true">🏅</span>Honors and Awards</h2>
 
