@@ -324,15 +324,16 @@ I am (always) actively seeking collaboration opportunities. If you are intereste
 <h2 id="services"><span class="section-icon" aria-hidden="true">🤝</span>Services</h2>
 
 - **Journal reviewer**
-  - *ACM Computing Surveys*
   - *IEEE/ACM Transactions on Networking*
   - *IEEE Transactions on Mobile Computing*
   - *IEEE Internet of Things Journals*
   - *IEEE Wireless Communication Letters*
+  - *ACM Computing Surveys*
 - **Conference reviewer**
   - *IEEE INFOCOM 2027*
   - *IEEE GLOBECOM 2026*
-- **Teaching Assistant**: *EE 307: Communication Systems*, Northwestern University, Fall 2024
+- **Teaching Assistant**:
+  - *EE 307: Communication Systems*, Northwestern University, Fall 2024
 
 <h2 id="honors-and-awards"><span class="section-icon" aria-hidden="true">🏅</span>Honors and Awards</h2>
 
