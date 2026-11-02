@@ -286,9 +286,9 @@ I am (always) actively seeking collaboration opportunities. If you are intereste
 
 <ul class="publication-list">
     <li>
-    <div class="publication-title"><span class="publication-id">[C4]</span> Analysis and Optimization of Age of Infomation in Large Scale Random Access Networks</div>
+    <div class="publication-title"><span class="publication-id">[C4]</span> <a href="https://arxiv.org/pdf/2610.27612">Analysis and Optimization of Age of Infomation in Large Scale Random Access Networks</div>
     <div class="publication-authors">Y. Chen, S. Fan, <strong>Z. Zhao</strong>, I. Hou, I. Kadota</div>
-    <div class="publication-meta"><span class="publication-venue">IEEE Allerton Conference 2026</span> &middot; <span class="publication-status"> to appear</span></div>
+    <div class="publication-meta"><span class="publication-venue">IEEE Allerton Conference 2026</span> &middot; </div>
   </li>
   <li>
     <div class="publication-title"><span class="publication-id">[C3]</span> <a href="https://arxiv.org/pdf/2503.23658">Optimizing Age of Information in Networks with Large and Small Updates</a></div>
@@ -324,8 +324,10 @@ I am (always) actively seeking collaboration opportunities. If you are intereste
 <h2 id="services"><span class="section-icon" aria-hidden="true">🤝</span>Services</h2>
 
 - **Journal reviewer**
+  - *ACM Computing Surveys*
   - *IEEE/ACM Transactions on Networking*
   - *IEEE Transactions on Mobile Computing*
+  - *IEEE Internet of Things Journals*
   - *IEEE Wireless Communication Letters*
 - **Conference reviewer**
   - *IEEE INFOCOM 2027*
